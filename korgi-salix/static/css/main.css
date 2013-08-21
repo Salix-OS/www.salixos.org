@@ -1,0 +1,293 @@
+/** Fifty shades of Tux
+ * A black, white and yellow css for kernel.org based on normalize.css
+ * MIT License
+ * Benoît Monin [benoit.monin gmx.fr]
+ */
+
+@import "normalize.css";
+@import "https://fonts.googleapis.com/css?family=Oxygen";
+@import "https://fonts.googleapis.com/css?family=Oswald:400";
+
+body {
+    font-family: oxygen,sans-serif;
+    background: #eaf0e3;
+    color: #130900;
+}
+
+#banner {
+    text-align: center;
+    background: #FFFFFF;
+    margin: 0em auto;
+    padding: 1em;
+    width: 50em;
+    border: thin solid;
+    border-color: #DDDACF #CCC8B8 #BBB59F;
+    box-shadow: 0 0.1em 0.3em #CCC8B8;
+    border-bottom-right-radius: 0.5em;
+    border-bottom-left-radius: 0.5em;
+}
+#tux-gear {
+    width: 7em;
+    height: 7em;
+    background-image: url('../images/logos/salix-tree-mirror.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    float: right;
+}
+#banner h1 {
+    margin: 0 0 0.45em;
+    text-shadow: 3px 3px 0 #F8F4EE;
+    font-size: 3em;
+}
+#banner h1 > a {
+    color: #333333;
+    transition: none;
+}
+#banner ul {
+    padding: 0;
+    margin: 0;
+    font-size: 1.1em;
+    font-weight: bold;
+    list-style: none;
+}
+#banner li {
+    display: inline;
+    padding: 0 1em;
+}
+#banner li > a {
+    color: #6e9834;
+    white-space: nowrap;
+    font-size: 90%;
+}
+#banner li > a:hover,
+#banner li > a:active {
+        color: #324618;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: oswald,helvetica,sans-serif;
+}
+
+a {
+    color: #3357D6;
+    text-decoration: none;
+    transition: color 0.25s;
+}
+a:hover,
+a:active {
+    color: #B39223;
+    text-decoration: none;
+}
+
+abbr[title] {
+    border: none;
+}
+
+hr {
+    border: none;
+}
+
+#protocols {
+    float: left;
+    width: 25em;
+    margin: 1.3em 0 4em 2em;
+}
+#protocols th {
+    text-align: left;
+}
+
+#latest {
+    width: 16em;
+    float: right;
+    background: #FFD133;
+    box-shadow: -0.1em -0.3em 0.5em #B39223 inset;
+    color: #4C3D00;
+    border-radius: 0.5em;
+    margin: 1em 2.2em 4em 0;
+}
+#latest td {
+    text-align: center;
+    vertical-align: middle;
+}
+#latest_label {
+    font-size: 1.25em;
+    padding: 0.5em 0 0;
+}
+#latest_button {
+    padding: 0 0 0.4em 1.2em;
+}
+#latest_button > a {
+    display: block;
+}
+#latest_button img {
+    vertical-align: middle;
+    opacity:0.7;
+    filter:alpha(opacity=70);
+}
+#latest_link {
+    font-size: 2.75em;
+    font-weight: bold;
+    padding: 0 0.6em 0.2em 0;
+}
+#latest_link > a {
+    color: #4C3D00;
+    display: block;
+    text-align: right;
+}
+
+#releases {
+    clear:both;
+    width: 100%;
+    margin-bottom: 0.25em;
+}
+#releases tr:nth-child(2n+1) {
+    background-color: #F7F6F1;
+}
+
+.post-info {
+    float: right;
+    text-align: center;
+    background: #eaf0e3;
+    color: #6f825e;
+    border: thin solid #bfccb8;
+    box-shadow: 0 0.1em 0.2em #bfccb8 inset;
+    border-radius: 0.5em;
+    padding: 0.5em 1em;
+    margin: 0 0 1em 1em;
+    font-size: 80%;
+}
+.post-info p {
+    margin: 0.25em 0 0;
+}
+#featured .post-info {
+    margin-top: 1.25em;
+}
+
+.literal-block {
+    background: #f3f3f3;
+    border: thin solid #ccc;
+    border-radius: 0.3em;
+    padding: 0.5em;
+    font-size: 90%;
+}
+
+#featured,
+#content {
+    background: #FFFFFF;
+    margin: 1.5em auto;
+    padding: 1em;
+    width: 50em;
+    border: thin solid;
+    border-color: #DDDACF #CCC8B8 #BBB59F;
+    box-shadow: 0 0.1em 0.3em #CCC8B8;
+    border-radius: 0.5em;
+}
+
+article h1 {
+    color: #33290A;
+    margin: 0;
+}
+article h1 > a {
+    color: #33290A !important;
+    transition: none;
+}
+
+table.docutils {
+    margin: 0 auto;
+    width: 80%;
+}
+table.docutils > caption {
+    margin: 0.5em 0;
+    text-align: left;
+    font-weight: bold;
+}
+
+a.readmore {
+    font-style: italic;
+    color: #6A84E0;
+}
+a.readmore:hover,
+a.readmore:active {
+    color: #B39F5C;
+}
+
+#content > h1 {
+    text-align: center;
+    margin: 0 0 1em;
+}
+
+.paginator {
+    text-align: center;
+    color: #9e9678;
+    margin: 0;
+}
+
+#posts-list {
+    list-style: none;
+    padding: 0;
+}
+#posts-list > li {
+    border-bottom: medium dotted #eaf0e3;
+    padding-bottom: 1em;
+    margin-top: 1em;
+}
+#posts-list > li:last-child {
+    border: none;
+}
+
+#extras {
+    margin: 1.5em auto;
+    width: 52em;
+}
+#extras > div {
+    background: #FFFFFF;
+    border: thin solid;
+    border-color: #DDDACF #CCC8B8 #BBB59F;
+    box-shadow: 0 0.1em 0.3em #CCC8B8;
+    border-radius: 0.5em;
+    height: 9.5em;
+}
+#extras > .blogroll {
+    float: left;
+    width: 34em;
+    padding: 0 1em;
+}
+#extras > .blogroll li {
+    width: 33%;
+    float: left;
+}
+#extras > .social {
+    float: right;
+    width: 12em;
+    padding: 0 1em;
+}
+#extras h2 {
+    margin: 0.5em 0;
+}
+#extras ul {
+    list-style: none;
+    padding: 0;
+}
+
+#contentinfo {
+    clear: both;
+    text-align: center;
+    color: #827A5E;
+    margin: 2em auto;
+    padding-top: 3.5em;
+    width: 52em;
+}
+#about {
+    font-size: 80%;
+}
+#donors {
+    margin-top: 1.5em;
+}
+#donors img {
+    vertical-align: middle;
+    margin: 0 1em;
+}
+dt {
+    font-weight: bold;
+}

@@ -1,0 +1,58 @@
+<aside id="featured" class="body">
+    <article>
+        <table id="protocols">
+        <tr>
+          <th>Protocol</th>
+          <th>Location</th>
+        </tr>
+        <tr>
+          <td><a href="http://www.ietf.org/rfc/rfc2616.txt">HTTP</a></td>
+          <td><a href="https://www.kernel.org/pub/">https://www.kernel.org/pub/</a></td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.ietf.org/rfc/rfc959.txt">FTP</a></td>
+          <td><a href="ftp://ftp.kernel.org/pub/">ftp://ftp.kernel.org/pub/</a></td>
+        </tr>
+
+        <tr>
+            <td><a href="http://rsync.samba.org/">RSYNC</a></td>
+            <td>rsync://rsync.kernel.org/pub/</td>
+        </tr>
+        </table>
+
+        <table id="latest">
+        <tr>
+            <td colspan="2" id="latest_label">
+                <strong>Latest Stable Kernel:</strong>
+            </td>
+        </tr>
+        <tr>
+            <td id="latest_button">
+                <a href="{{ SITEURL }}/{{ latest_release[5] }}"><img src="{{ SITEURL }}/theme/images/icons/downloadarrow_small.png" width="48" height="48" border="0" alt="Download"/></a>
+            </td>
+            <td id="latest_link">
+                <a href="{{ SITEURL }}/{{ latest_release[5] }}">{{ latest_release[1] }}</a>
+            </td>
+        </tr>
+        </table>
+
+        <table id="releases">
+        {% for (label, version, iseol, timestamp, isodate, source, sign, patch, incr, changelog, gitweb) in current_releases %}
+        <tr align="left">
+            <td>{{ label }}:</td>
+            <td><strong>{{ version }}{% if iseol %} <span class="eolkernel" title="This release is End-of-Life">[EOL]</span>{% endif %}</strong></td>
+            <td>{{ isodate }}</td>
+            <td>{% if source %}[<a href="{{ SITEURL }}/{{ source }}" title="Download complete tarball">tar.xz</a>]{% endif %}</td>
+	    <td>{% if sign %}[<a href="{{ SITEURL }}/{{ sign }}" title="Download PGP verification signature">pgp</a>] {% endif %}</td>
+            <td>{% if patch %}[<a href="{{ SITEURL }}/{{ patch }}" title="Download patch to previous mainline">patch</a>]{% endif %}</td>
+            <td>{% if patch %}[<a href="https://www.kernel.org/diff/diffview.cgi?file=/{{ patch }}" title="View patch to previous mainline using diffview">view&nbsp;patch</a>]{% endif %} </td>
+            <td>{% if incr %}[<a href="https://www.kernel.org/diff/diffview.cgi?file=/{{ incr }}" title="View incremental patch to previous stable release">view&nbsp;inc</a>]{% endif %} </td>
+            <td>{% if gitweb %}[<a href="{{ gitweb }}" title="Browse the git tree using the web interface">gitweb</a>] {% endif %}</td>
+            <td>{% if changelog %}[<a href="{{ SITEURL }}/{{ changelog }}" title="View detailed change logs">changelog</a>]{% endif %}</td>
+        </tr>
+        {% endfor %}
+        </table>
+    </article>
+</aside>
+
