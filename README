@@ -6,12 +6,9 @@ This website can be build with pelican v3.0.
 Notes
 -----
 
-* The theme is based on the kernel.org theme. Source code available here:
-  http://git.kernel.org/cgit/docs/kernel/website.git
+* The theme is based on the kernel.org theme. Source code available here: http://git.kernel.org/cgit/docs/kernel/website.git
 * The Makefile has been changed to publish robots.txt and favicon.ico, too.
-* The file chat/jappix.html is a static file. This means menus, headers and footers
-  are not automatically generated. Everything has to be changed by hand in this file.
-  Future pelican versions (>3.2) will have new options to provide a better solution.
+* The file chat/jappix.html is a static file. This means menus, headers and footers are not automatically generated. Everything has to be changed by hand in this file. Future pelican versions (>3.2) will have new options to provide a better solution.
 
 Compile and upload
 ------------------
