@@ -8,7 +8,7 @@ Salix is a GNU/Linux distribution based on Slackware that is simple, fast and ea
 
 Editions
 --------
-<img src="/static/images/Salix-13.37-images.png" alt="Screenshot" align="right">
+<img src="static/images/Salix-13.37-images.png" alt="Screenshot" align="right">
 
 There are six editions of Salix; the **Xfce**, **MATE**, **LXDE**, **Fluxbox**, **KDE** and **Ratpoison** editions, each edition featuring the respective desktop environment.
 Salix disc images are offered in two different forms:
