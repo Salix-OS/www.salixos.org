@@ -36,10 +36,8 @@ MENUITEMS =  (('Download', 'http://docs.salixos.org/wiki/Download'),
           ('Forum', 'http://forum.salixos.org'),)
 
 # Blogroll
-LINKS =  (('Download', 'http://docs.salixos.org/wiki/Download'),
+LINKS =  (
           ('Screenshots', 'http://picasaweb.google.com/salix.artwork'),
-          ('Wiki', 'http://docs.salixos.org/wiki/Main_Page'),
-          ('Forum', 'http://forum.salixos.org'),
           ('Websearch', 'http://start.salixos.org'),
           ('Mailing lists', 'http://docs.salixos.org/wiki/Mailing_lists'),
           ('Jabber chat room', '/static/chat/jappix.html'),
