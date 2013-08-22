@@ -39,6 +39,7 @@ MENUITEMS =  (('Download', 'http://docs.salixos.org/wiki/Download'),
 LINKS =  (
           ('Screenshots', 'http://picasaweb.google.com/salix.artwork'),
           ('Websearch', 'http://start.salixos.org'),
+		  ('Transifex', 'https://www.transifex.com/projects/p/salix/'),
           ('Mailing lists', 'http://docs.salixos.org/wiki/Mailing_lists'),
           ('Jabber chat room', '/static/chat/jappix.html'),
           ('IRC chat room', 'http://webchat.freenode.net/?randomnick=1&channels=salix&prompt=1'),)
