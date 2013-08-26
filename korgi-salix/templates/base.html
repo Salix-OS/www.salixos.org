@@ -3,8 +3,8 @@
 <head>
         <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
         <meta charset="utf-8" />
-	<link rel="icon" type="image/png" href="{{ SITEURL }}/theme/images/logos/favicon.png" />
-        <link rel="stylesheet" href="{{ SITEURL }}/theme/css/{{ CSS_FILE }}" type="text/css" />
+	<link rel="icon" type="image/png" href="theme/images/logos/favicon.png" />
+        <link rel="stylesheet" href="theme/css/{{ CSS_FILE }}" type="text/css" />
 
         <!--[if IE]>
                 <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -29,11 +29,11 @@
                 {% endfor %}
                 {% if DISPLAY_PAGES_ON_MENU %}
                 {% for page in PAGES %}
-                    <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
+                    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
                 {% endfor %}
                 {% endif %}
                 {% for cat, null in categories %}
-                    <li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+                    <li {% if cat == category %}class="active"{% endif %}><a href="{{ cat.url }}">{{ cat }}</a></li>
                 {% endfor %}
                 </ul></nav>
         </header><!-- /#banner -->
@@ -68,10 +68,10 @@
                 </address><!-- /#about -->
 
                 <address id="donors">
-                    <a href="http://www.ip-projects.de/"><img src="{{ SITEURL }}/theme/images/logos/ip-projects.png"
+                    <a href="http://www.ip-projects.de/"><img src="theme/images/logos/ip-projects.png"
                   alt="IP Projects" width="117" height="60" /></a>
                   &nbsp;
-                  <a href="http://hostingxtreme.com/"><img src="{{ SITEURL }}/theme/images/logos/hosting_xtreme_30.png"
+                  <a href="http://hostingxtreme.com/"><img src="theme/images/logos/hosting_xtreme_30.png"
                   width="114" height="30" alt="Hosting Xtreme" /></a>
                 </address><!-- /#about -->
         </footer><!-- /#contentinfo -->
