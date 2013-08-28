@@ -11,9 +11,9 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=84.200.32.138
+SSH_HOST=salixos.org
 SSH_PORT=22
-SSH_USER=root
+SSH_USER=thenktor
 SSH_TARGET_DIR=/srv/www/www.salixos.org
 
 DROPBOX_DIR=~/Dropbox/Public/
