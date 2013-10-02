@@ -25,7 +25,7 @@ clean:
 
 upload: html
 	rsync -e "ssh -p $(SSH_PORT)" \
-		-P -rvz \
+		-avz \
 		--exclude "*.t2t" \
 		--exclude ".git" \
 		--exclude ".gitignore" \
