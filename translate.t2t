@@ -1,0 +1,54 @@
+Translating Salix
+
+Help us with internationalizing Salix!
+
+% See those first lines at the top? They are the page heading and
+% subheading.
+
+%!includeconf: config.t2t
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% All the config is made, so the real contents begins now
+
+% The sidebar with the menu links are on a separated file, included now
+
+%!include: menu.t2t
+
+% And here's our first heading, level 2 (see the two equal signs)
+
+A lot of software that is used in Salix is being developed in-house.
+Users from around the world can help us by translating the Salix
+software into their own language.
+
+The Salix translation project is being hosted by [Transifex https://www.transifex.com].
+There are many resources that are available for translation. Most of
+these resources are easily reachable by vising the [Salix project page https://www.transifex.com/projects/p/salix/]
+at Transifex.
+
+However, there are additional resources that are not
+included in the main Salix project page and that are available for
+translation as well. The reason these resources are not available in the
+main Salix project page at Transifex is because these projects is mainly
+because some resources are large enough to warrant their own project
+pages. Also, there are some resources that were created as separate
+projects even before the main Salix project page existed in Transifex.
+
+So, here's a list of what else you can translate in Transifex, apart
+from what is listed in the Salix project page:
+
+- [Salixtools https://www.transifex.com/projects/p/salixtools/]: the
+  Salix system tools (console version).
+- [SalixtoolsGTK https://www.transifex.com/projects/p/salixtools-gtk/]:
+  The Salix system tools (GTK version).
+- [Slapt-get https://www.transifex.com/projects/p/slapt-get/]: The
+  package management tools that Salix uses.
+- [Dotnew https://www.transifex.com/projects/p/dotnew/]: A utility to
+  process .new configuration files.
+- [Depfinder https://www.transifex.com/projects/p/depfinder/]: A tool
+  that finds dependencies of Slackware packages.
+
+
+% The footer is an external file
+
+%!include: footer.t2t

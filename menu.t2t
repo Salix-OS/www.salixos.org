@@ -2,6 +2,7 @@
 % The menu creates the "sidebar" DIV
 
 ''' <div id="sidebar">
+[Home index.html]
 [Download http://docs.salixos.org/wiki/Download]
 [Wiki http://docs.salixos.org/wiki/Main_Page]
 [Forum http://forum.salixos.org/]
@@ -9,7 +10,7 @@
 [Screenshots http://picasaweb.google.com/salix.artwork]
 [Mailing Lists http://docs.salixos.org/wiki/Mailing_lists]
 [Websearch http://start.salixos.org/]
-[Translate https://www.transifex.com/projects/p/salix/]
+[Translate translate.html]
 [IRC Channel http://webchat.freenode.net/?randomnick=1&channels=salix&prompt=1]
 [Jabber Chat Room http://salixos.org/static/chat/jappix.html]
 
