@@ -15,6 +15,10 @@ Linux for the lazy Slacker
 
 %!include: menu.t2t
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Put any content below this line
+
 % And here's our first heading, level 2 (see the two equal signs)
 
 == About Salix ==

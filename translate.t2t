@@ -15,7 +15,9 @@ Help us with internationalizing Salix!
 
 %!include: menu.t2t
 
-% And here's our first heading, level 2 (see the two equal signs)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Put any content below this line
 
 A lot of software that is used in Salix is being developed in-house.
 Users from around the world can help us by translating the Salix
