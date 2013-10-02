@@ -20,7 +20,7 @@ help:
 	@echo '                                                                       '
 
 clean:
-	find ./ -name *.html  -delete
+	find ./ -name "*.html"  -delete
 
 upload: 
 	rsync -e "ssh -p $(SSH_PORT)" \
