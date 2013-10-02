@@ -28,6 +28,10 @@ Salix.
 Older releases are available through the 
 [Salix project page at Sourceforge http://sourceforge.net/projects/salix/].
 
+If instead of the iso images, you are looking for the packages that are
+included in the Salix repositories, you can download them through one of
+our [repository mirrors http://docs.salixos.org/wiki/Repository_mirrors].
+
 //The iso images that are available for download here are not Live images. They boot into the standard Salix installer, which is a text-mode dialog-based installer.//
 
 [img/Xfce.png] 
