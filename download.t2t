@@ -1,0 +1,158 @@
+Salix Downloads
+
+Download Salix iso images
+
+% See those first lines at the top? They are the page heading and
+% subheading.
+
+%!includeconf: config.t2t
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% All the config is made, so the real contents begins now
+
+% The sidebar with the menu links are on a separated file, included now
+
+%!include: menu.t2t
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Put any content below this line
+
+Salix is available in several editions, each built around and focused on
+a different Desktop Environment or Window Manager. In this page, you can
+find iso images for [Xfce #xfce], [KDE #kde], [MATE #mate],
+[Ratpoison #ratpoison], [Fluxbox #fluxbox] and [LXDE #lxde] editions of
+Salix.
+
+Older releases are available through the 
+[Salix project page at Sourceforge http://sourceforge.net/projects/salix/].
+
+//The iso images that are available for download here are not Live images. They boot into the standard Salix installer, which is a text-mode dialog-based installer.//
+
+[img/Xfce.png] 
+
+= Xfce =[xfce]
+
+== Salix Xfce 14.0.1 CD ISO (i686, 32-bit) ==
+
+(size: 659 MB, md5: be3415254652c455cbe12dce4ac5bf61)
+
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/14.0/salix-xfce-14.0.1.iso/download]
+- [torrent download http://download.salixos.org/i486/14.0/iso/salix-xfce-14.0.1.iso.torrent]
+
+
+== Salix64 Xfce 14.0.1 CD ISO (x86_64, 64-bit) ==
+
+(size: 673 MB, md5: cccc69373ed40005ad071ffe6156950f)
+
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/14.0/salix64-xfce-14.0.1.iso/download]
+- [torrent download http://download.salixos.org/x86_64/14.0/iso/salix64-xfce-14.0.1.iso.torrent]
+
+
+[img/KDE.png] 
+
+= KDE =[kde]
+
+== Salix KDE 14.0.1 CD ISO (i686, 32-bit) ==
+
+(size: 931MB, md5: b3b0bad2345b4cb3de355a961da0b37e) 
+
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/14.0/salix-kde-14.0.1.iso/download]
+- [torrent download http://download.salixos.org/i486/14.0/iso/salix-kde-14.0.1.iso.torrent]
+
+
+== Salix64 KDE 14.0.1 CD ISO (i486, 32-bit) ==
+
+(size: 933MB md5: 5c480dc99abb77d46ac244fc27d544a2) 
+
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/14.0/salix64-kde-14.0.1.iso/download]
+- [torrent download http://download.salixos.org/x86_64/14.0/iso/salix64-kde-14.0.1.iso.torrent]
+
+
+[img/MATE.png] 
+
+= MATE =[mate]
+
+== Salix MATE 13.37 CD ISO (i486, 32-bit) ==
+
+(size: 611 MB, md5: b612a364eaf452eb361eb8382dd7fa7c) 
+
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/13.37/salix-mate-13.37.iso/download]
+- [torrent download http://download.salixos.org/i486/13.37/iso/salix-mate-13.37.iso.torrent]
+
+
+== Salix64 MATE 13.37 CD ISO (x86_64, 64-bit) ==
+
+(size: 602 MB, md5: 81bef74687f3513c2b8006541e59c4c3) 
+
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/13.37/salix64-mate-13.37.iso/download]
+- [torrent download http://download.salixos.org/x86_64/13.37/iso/salix64-mate-13.37.iso.torrent]
+
+
+[img/Ratpoison.png] 
+
+= Ratpoison =[ratpoison]
+
+== Salix Ratpoison 13.37 CD ISO (i486, 32-bit) ==
+
+(size: 426 MB, md5: c65f40822a6ad087e649b5623f7bf33e) 
+
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/13.37/salix-ratpoison-13.37.iso/download]
+- [torrent download http://download.salixos.org/i486/13.37/iso/salix-ratpoison-13.37.iso.torrent]
+
+
+== Salix64 Ratpoison 13.37 CD ISO ==
+
+(size: 406 MB, md5: 0c41e72c19ae4e2df4778315e1b1006d) 
+
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/13.37/salix64-ratpoison-13.37.iso/download]
+- [torrent download http://download.salixos.org/x86_64/13.37/iso/salix64-ratpoison-13.37.iso.torrent]
+
+
+[img/Fluxbox.png] 
+
+= Fluxbox =[fluxbox]
+
+== Salix Fluxbox 13.37 CD ISO (i486, 32-bit) ==
+
+(size: 575MB md5: c39e2cb4eed3a9bc62658ec531a14163) 
+
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/13.37/salix-fluxbox-13.37.iso/download]
+- [torrent download http://download.salixos.org/i486/13.37/iso/salix-fluxbox-13.37.iso.torrent]
+
+
+== Salix64 Fluxbox 13.37 CD ISO (x86_64, 64-bit) ==
+
+(size: 562MB md5: af41371664e85473d82acfe8e1376812)
+
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/13.37/salix64-fluxbox-13.37.iso/download]
+- [torrent download http://download.salixos.org/x86_64/13.37/iso/salix64-fluxbox-13.37.iso.torrent]
+
+
+[img/LXDE.png] 
+
+= LXDE =[lxde]
+
+
+== Salix LXDE 13.37 CD ISO (i486, 32-bit) ==
+
+(size: 485MB, md5: 34741338167ad5dcbfe6a8257b4177aa)
+
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/13.37/salix-lxde-13.37.iso/download]
+- [torrent download http://download.salixos.org/i486/13.37/iso/salix-lxde-13.37.iso.torrent]
+
+
+== Salix64 LXDE 13.37 CD ISO (x86_64, 64-bit) ==
+
+(size: 459MB, md5: 0415b596893dac5ec2dc56160a2f5b69) 
+
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/13.37/salix64-lxde-13.37.iso/download]
+- [torrent download http://download.salixos.org/x86_64/13.37/iso/salix64-lxde-13.37.iso.torrent]
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% The footer is an external file
+
+%!include: footer.t2t

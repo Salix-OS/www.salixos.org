@@ -99,6 +99,11 @@ a.donate
 	padding		: 0;
 	}
 
+img
+	{
+	margin : 5px;
+	}
+
 /***************************** HEADERS **************************** 
 / Remember that headers are the first three lines of the source file.
 / They are placed inside the #header DIV when using --css-suggar.
@@ -284,7 +289,6 @@ a.donate
 	vertical-aling  : middle;
 	margin : 5px;
 	border : 5px;
-	border: green;
 	}
 }
 
