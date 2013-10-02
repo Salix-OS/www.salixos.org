@@ -22,12 +22,13 @@ help:
 clean:
 	find ./ -name "*.html"  -delete
 
-upload: 
+upload: html
 	rsync -e "ssh -p $(SSH_PORT)" \
 		-P -rvz \
 		--exclude "*.t2t" \
 		--exclude ".git" \
 		--exclude ".gitignore" \
+		--exclude Makefile \
 		--delete ./ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
 .PHONY: html help clean upload
