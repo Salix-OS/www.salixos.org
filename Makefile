@@ -12,6 +12,7 @@ help:
 	@echo '                                                                       '
 	@echo 'Usage:                                                                 '
 	@echo '   make                             (re)generate the web site          '
+	@echo '   make html                        same as make                       '
 	@echo '   make clean                       remove the generated files         '
 	@echo '   upload                           upload the web site via rsync+ssh  '
 	@echo '                                                                       '
@@ -23,6 +24,8 @@ upload:
 	rsync -e "ssh -p $(SSH_PORT)" \
 		-P -rvz \
 		--exclude "*.t2t" \
-		--delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
+		--exclude ".git" \
+		--exclude ".gitignore" \
+		--delete ./ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
 .PHONY: html help clean upload
