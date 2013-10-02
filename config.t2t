@@ -77,15 +77,6 @@
 % Note: the (?i) makes the pattern case insensitive (avoids headaches)
 %!postproc: '(?i)(<body)'	'\1 id="home"'
 
-% Adds the RSS feed header to the page, right after <head> tag
-%!postproc: '(?i)(<head>)'	\1\n<link rel="alternate" href="http://txt2tags.wordpress.com" type="application/rss+xml">
-
-% Adds class name to the splash image
-%!postproc: '(download-v\d+.png")'	'\1 class="splashimg"'
-
-% Fills the "PHP" tooltip on "About this site". See config.t2t for details.
-%!postproc: {tooltip1}	One exception: Txt2tags Online is a PHP file, because it needs to be interactive.
-
 % meta: keywords
 %!postproc: (</HEAD>)	<meta name="keywords" content="salix, slackware, gnu, linux, distribution, slapt-get">\n\1
 
