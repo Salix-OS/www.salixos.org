@@ -1,0 +1,23 @@
+
+% The menu creates the "sidebar" DIV
+
+''' <div id="sidebar">
+[Home index.html]
+[Download http://docs.salixos.org/wiki/Download]
+[Wiki http://docs.salixos.org/wiki/Main_Page]
+[Forum http://forum.salixos.org/]
+--------------------
+[Websearch http://start.salixos.org/]
+[Screenshots http://picasaweb.google.com/salix.artwork]
+[Mailing Lists http://docs.salixos.org/wiki/Mailing_lists]
+[Translate translate.html]
+[IRC/Jabber chat.html]
+--------------------
+[Sourceforge Project Page http://sourceforge.net/projects/salix/]
+[Package Submissions http://sourceforge.net/p/salix/packages/?source=navbar]
+[Bugtracker http://sourceforge.net/p/salix/tickets/]
+
+''' </div>
+
+% When updating this file, regenerate all files that use it.
+% See update.txt for info.

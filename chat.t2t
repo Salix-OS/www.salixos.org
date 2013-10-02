@@ -1,0 +1,46 @@
+Salix IRC channel and Jabber room
+
+Get online support/chat about Salix
+
+% See those first lines at the top? They are the page heading and
+% subheading.
+
+%!includeconf: config.t2t
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% All the config is made, so the real contents begins now
+
+% The sidebar with the menu links are on a separated file, included now
+
+%!include: menu.t2t
+
+% And here's our first heading, level 2 (see the two equal signs)
+
+You can reach us online using either our IRC channel or our Jabber chat
+room.
+
+Please be patient when asking a question, not everyone lives in
+the same timezone as you do and even if they do, they might not be
+available at that certain time. You might get instant answers or you
+might have to wait a few hours until someone is able to answer back to
+you.
+
+
+== IRC Channel ==
+
+Our IRC channel is named **#salix** and is hosted at the
+**irc.freenode.net** IRC server. You can use your favourite IRC client,
+or you can also log in using the
+[web interface http://webchat.freenode.net/?randomnick=1&channels=salix&prompt=1]
+that freenode.net provides.
+
+
+== Jabber Room ==
+
+Our Jabber chat room is **''salix@chat.meticul.eu''**. You can use any
+Jabber client that supports MUC (Multi User Chat).
+
+% The footer is an external file
+
+%!include: footer.t2t
