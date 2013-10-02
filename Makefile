@@ -22,7 +22,7 @@ help:
 clean:
 	find ./ -name *.html  -delete
 
-upload: publish
+upload: 
 	rsync -e "ssh -p $(SSH_PORT)" \
 		-P -rvz \
 		--exclude "*.t2t" \
