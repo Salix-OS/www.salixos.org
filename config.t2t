@@ -48,9 +48,6 @@
 %!postproc: '(?i)(src="[^"]*t2tpowered.png")'         '\1 title="O>OOOO"'
 %!postproc: '(?i)(src="[^"]*donate.png".*?) ALT=""'   '\1 alt="DONATE"'
 
-% Trick to add an automatic link to the page top title
-%!postproc: '^<H1>txt2tags</H1>$'   '<h1><a href="/">txt2tags</a></h1>'
-
 % Real nice trick to transform a link into a SPAN with TITLE.
 % Used when you want a tooltip to appear when the mouse hovers some words.
 %
@@ -60,9 +57,6 @@
 % Also, make a span.tooltip rule on the CSS to highlight the words.
 %
 %!postproc: '(?i)<a href="#(tooltip[0-9]*)">(.*?)</a>'	'<span class="tooltip" title="{\1}">\2</span>'
-
-% A nice database of links, in a separate file. An interesting read, go for it!
-%%!includeconf: urls.t2t
 
 % This fixes a bug in %%infile path when inside included file.
 % In this case, the %%infile inside footer.t2t incorrectly gets footer.t2t
