@@ -1,7 +1,7 @@
 
 SSH_HOST=salixos.org
 SSH_PORT=22
-SSH_USER=gapan
+SSH_USER=web
 SSH_TARGET_DIR=/srv/www/www.salixos.org
 
 html: 
