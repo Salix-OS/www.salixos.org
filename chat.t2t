@@ -15,7 +15,9 @@ Get online support/chat about Salix
 
 %!include: menu.t2t
 
-% And here's our first heading, level 2 (see the two equal signs)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Put any content below this line
 
 You can reach us online using either our IRC channel or our Jabber chat
 room.

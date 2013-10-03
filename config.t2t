@@ -39,7 +39,7 @@
 %!postproc: SITEROOT	.
 
 % Trick to add the author meta tag right after the <head> tag.
-%!postproc: '(?i)(<head>)'	'\1\n<meta name="author" content="Aurelio Jargas www.aurelio.net">'
+%!postproc: '(?i)(<head>)'	'\1\n<meta name="author" content="George Vlahavas <vlahavas~at~gmail~dot~com>">'
 
 % Trick to add the favicon meta tag right before the </head> tag.
 %!postproc: '(?i)(</head>)'	'<link rel="icon" type="image/png" href="img/favicon.png">\n\1'
@@ -47,9 +47,6 @@
 % Trick to add the TITLE/ALT attribute to an image
 %!postproc: '(?i)(src="[^"]*t2tpowered.png")'         '\1 title="O>OOOO"'
 %!postproc: '(?i)(src="[^"]*donate.png".*?) ALT=""'   '\1 alt="DONATE"'
-
-% Trick to add an automatic link to the page top title
-%!postproc: '^<H1>txt2tags</H1>$'   '<h1><a href="/">txt2tags</a></h1>'
 
 % Real nice trick to transform a link into a SPAN with TITLE.
 % Used when you want a tooltip to appear when the mouse hovers some words.
@@ -60,9 +57,6 @@
 % Also, make a span.tooltip rule on the CSS to highlight the words.
 %
 %!postproc: '(?i)<a href="#(tooltip[0-9]*)">(.*?)</a>'	'<span class="tooltip" title="{\1}">\2</span>'
-
-% A nice database of links, in a separate file. An interesting read, go for it!
-%%!includeconf: urls.t2t
 
 % This fixes a bug in %%infile path when inside included file.
 % In this case, the %%infile inside footer.t2t incorrectly gets footer.t2t
@@ -76,15 +70,6 @@
 % Adds an ID to the <body> tag
 % Note: the (?i) makes the pattern case insensitive (avoids headaches)
 %!postproc: '(?i)(<body)'	'\1 id="home"'
-
-% Adds the RSS feed header to the page, right after <head> tag
-%!postproc: '(?i)(<head>)'	\1\n<link rel="alternate" href="http://txt2tags.wordpress.com" type="application/rss+xml">
-
-% Adds class name to the splash image
-%!postproc: '(download-v\d+.png")'	'\1 class="splashimg"'
-
-% Fills the "PHP" tooltip on "About this site". See config.t2t for details.
-%!postproc: {tooltip1}	One exception: Txt2tags Online is a PHP file, because it needs to be interactive.
 
 % meta: keywords
 %!postproc: (</HEAD>)	<meta name="keywords" content="salix, slackware, gnu, linux, distribution, slapt-get">\n\1

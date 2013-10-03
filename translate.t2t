@@ -15,7 +15,9 @@ Help us with internationalizing Salix!
 
 %!include: menu.t2t
 
-% And here's our first heading, level 2 (see the two equal signs)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Put any content below this line
 
 A lot of software that is used in Salix is being developed in-house.
 Users from around the world can help us by translating the Salix
@@ -29,7 +31,7 @@ at Transifex.
 However, there are additional resources that are not
 included in the main Salix project page and that are available for
 translation as well. The reason these resources are not available in the
-main Salix project page at Transifex is because these projects is mainly
+main Salix project page at Transifex is mainly
 because some resources are large enough to warrant their own project
 pages. Also, there are some resources that were created as separate
 projects even before the main Salix project page existed in Transifex.
