@@ -11,8 +11,10 @@ Linux for the lazy Slacker
 
 %%% All the config is made, so the real contents begins now
 
-% The sidebar with the menu links are on a separated file, included now
+% Adds the RSS feed header to the page, right after <head> tag
+%!postproc: '(?i)(<head>)'	\1\n<link rel="alternate" href="http://forum.salixos.org/feed.php?mode=news" type="application/rss+xml">
 
+% The sidebar with the menu links are on a separated file, included now
 %!include: menu.t2t
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
