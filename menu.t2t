@@ -18,7 +18,10 @@
 [Package Submissions http://sourceforge.net/p/salix/packages/?source=navbar]
 [Bugtracker http://sourceforge.net/p/salix/tickets/]
 --------------------
-%!include: ''paypal.htm''
+
+[[img/donate.png] donations.html]
+
+%%!include: ''paypal.htm''
 
 ''' </div>
 

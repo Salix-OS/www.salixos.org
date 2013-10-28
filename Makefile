@@ -10,6 +10,7 @@ html:
 	txt2tags chat.t2t
 	txt2tags download.t2t
 	txt2tags thankyou.t2t
+	txt2tags donations.t2t
 
 help:
 	@echo 'Makefile for a pelican Web site                                        '
