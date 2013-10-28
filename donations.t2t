@@ -80,6 +80,4 @@ Salix DuckDuckGo search your default and it will add up!
 
 == List of Donations ==[list]
 
-|| Date      | Donor                                  | Amount Donated |
-| 2013-10-28 | Richard Speyer                         |            10€ |
-| 2013-10-27 | Antonio Sardei (laplume)               |            50€ |
+%!include: donations-list.t2t
