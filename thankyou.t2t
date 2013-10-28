@@ -1,0 +1,38 @@
+Thank you!
+
+We are really grateful for your donation to Salix
+
+% See those first lines at the top? They are the page heading and
+% subheading.
+
+%!includeconf: config.t2t
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% All the config is made, so the real contents begins now
+
+% The sidebar with the menu links are on a separated file, included now
+
+%!include: menu.t2t
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Put any content below this line
+
+Your donation has been received! We would like to thank you for your
+support in continuing to develop Salix!
+
+Your name, as shown in your Paypal account will appear in our donors
+list. If you would like to have your name link to your website, or add
+any other information about you in that list, you can send an email to
+**vlahavas~at~gmail~dot~com** or send a private message to **gapan** in
+the forum.
+
+By letting us know your forum username, you will also receive the
+honorary rank of **Donor** in our forum.
+
+Thanks again for your contribution to Salix!
+
+% The footer is an external file
+
+%!include: footer.t2t
