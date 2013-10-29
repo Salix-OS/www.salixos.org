@@ -81,4 +81,4 @@ Salix DuckDuckGo search your default and it will add up!
 
 == List of Donations ==[list]
 
-%!include: donations-list.t2t
+%!include: list-of-donations.t2t
