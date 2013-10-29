@@ -70,6 +70,7 @@ Salix has three different modes of installation:
   customize your installation for any specific purpose, such
   as a web server, file server etc.
 
+
 All three installation modes come with a complete
 development environment, so users don't need to add anything
 to start developing and compiling applications.
