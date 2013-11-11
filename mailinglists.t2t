@@ -1,0 +1,35 @@
+Salix Mailing Lists
+
+
+
+% See those first lines at the top? They are the page heading and
+% subheading.
+
+%!includeconf: config.t2t
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% All the config is made, so the real contents begins now
+
+% The sidebar with the menu links are on a separated file, included now
+
+%!include: menu.t2t
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Put any content below this line
+
+=salix-main=
+
+The **salix-main** mailing list is the main discussion and development
+mailing list for SalixOS.
+
+All developers are requested to register as
+most of the development is discussed in this mailing list. Translators
+should also register, as notifications about new strings that need to be
+translated in the several software projects developed in-house are
+regularly posted here. All users are also welcome to register and share
+their ideas/opinions about everything concerning the project.
+
+You can subscribe/unsubscribe and view the list archives using the
+[salix-main info page https://lists.sourceforge.net/lists/listinfo/salix-main].
