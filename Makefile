@@ -20,7 +20,7 @@ help:
 	@echo '   make                             (re)generate the web site          '
 	@echo '   make html                        same as make                       '
 	@echo '   make clean                       remove the generated files         '
-	@echo '   upload                           upload the web site via rsync+ssh  '
+	@echo '   make upload                      upload the web site via rsync+ssh  '
 	@echo '                                                                       '
 
 clean:
