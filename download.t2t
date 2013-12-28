@@ -73,6 +73,25 @@ our [repository mirrors http://docs.salixos.org/wiki/Repository_mirrors].
 - [torrent download http://download.salixos.org/x86_64/14.0/iso/salix64-kde-14.0.1.iso.torrent]
 
 
+[img/ratpoison.png] 
+
+= Ratpoison =[ratpoison]
+
+== Salix Ratpoison 14.0.1 CD ISO (i686, 32-bit) ==
+
+(size: 535MB, md5: 336bde2de5e763f51ba55ace51c6ec75) 
+
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/14.0/salix-ratpoison-14.0.1.iso/download]
+- [torrent download http://download.salixos.org/i486/14.0/iso/salix-ratpoison-14.0.1.iso.torrent]
+
+
+== Salix64 Ratpoison 14.0.1 CD ISO (x86_64, 64-bit) ==
+
+(size: 476MB, md5: 5cc194b3064635c195e8dd74b7321c69) 
+
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/14.0/salix64-ratpoison-14.0.1.iso/download]
+- [torrent download http://download.salixos.org/x86_64/14.0/iso/salix64-ratpoison-14.0.1.iso.torrent]
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
