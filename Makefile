@@ -1,4 +1,3 @@
-
 SSH_HOST=salixos.org
 SSH_PORT=22
 SSH_USER=web
