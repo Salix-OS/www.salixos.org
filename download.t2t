@@ -33,10 +33,8 @@ our [repository mirrors http://docs.salixos.org/wiki/Repository_mirrors].
 
 //The iso images that are available for download here are not Live images. They boot into the standard Salix installer, which is a text-mode dialog-based installer.//
 
-[img/Xfce.png] 
-
-= Xfce =[xfce]
-
+== ==[xfce]
+[img/Xfce.png]
 == Salix Xfce 14.0.1 CD ISO (i686, 32-bit) ==
 
 (size: 659 MB, md5: be3415254652c455cbe12dce4ac5bf61)
@@ -53,10 +51,8 @@ our [repository mirrors http://docs.salixos.org/wiki/Repository_mirrors].
 - [torrent download http://download.salixos.org/x86_64/14.0/iso/salix64-xfce-14.0.1.iso.torrent]
 
 
-[img/KDE.png] 
-
-= KDE =[kde]
-
+= =[kde]
+[img/KDE.png]
 == Salix KDE 14.0.1 CD ISO (i686, 32-bit) ==
 
 (size: 931MB, md5: b3b0bad2345b4cb3de355a961da0b37e) 
@@ -73,10 +69,8 @@ our [repository mirrors http://docs.salixos.org/wiki/Repository_mirrors].
 - [torrent download http://download.salixos.org/x86_64/14.0/iso/salix64-kde-14.0.1.iso.torrent]
 
 
-[img/Ratpoison.png] 
-
-= Ratpoison =[ratpoison]
-
+= =[ratpoison]
+[img/Ratpoison.png]
 == Salix Ratpoison 14.0.1 CD ISO (i486, 32-bit) ==
 
 (size: 535MB, md5: 336bde2de5e763f51ba55ace51c6ec75) 
