@@ -11,6 +11,7 @@ html:
 	txt2tags thankyou.t2t
 	txt2tags donations.t2t
 	txt2tags mailinglists.t2t
+	txt2tags guide.t2t
 
 help:
 	@echo 'Makefile for a pelican Web site                                        '

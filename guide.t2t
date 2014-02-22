@@ -1,0 +1,41 @@
+Salix Startup Guide
+
+
+
+% See those first lines at the top? They are the page heading and
+% subheading.
+
+%!includeconf: config.t2t
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% All the config is made, so the real contents begins now
+
+% The sidebar with the menu links are on a separated file, included now
+
+%!include: menu.t2t
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Put any content below this line
+
+The Salix Startup Guide helps new comers to Salix (and to Linux in
+general). It's main purpose is to enable new users to take full advantage
+of the many features and functionalities of Salix.
+
+While particular attention has
+been given to help newcomers quickly get familiar with common computer
+tasks, more advanced material is also available for intermediate users
+who want to learn more about the inner workings of their operating
+system, its administration and its customisation.
+
+The subjects that the Salix Startup Guide addresses, are:
+- Overview of Salix OS
+- Installing Salix OS
+- Salix specific tools
+- List of applications
+- and much more!
+-
+
+The Salix Startup Guide can be [viewed online guide.salixos.org] and it
+is also available as a [pdf file guide.salixos.org/SalixStartupGuide.pdf].
