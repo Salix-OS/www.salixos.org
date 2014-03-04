@@ -35,20 +35,20 @@ our [repository mirrors http://docs.salixos.org/wiki/Repository_mirrors].
 
 == ==[xfce]
 [img/Xfce.png]
-== Salix Xfce 14.0.1 CD ISO (i686, 32-bit) ==
+== Salix Xfce 14.1 CD ISO (i686, 32-bit) ==
 
-(size: 659 MB, md5: be3415254652c455cbe12dce4ac5bf61)
+(size: 697 MB, md5: c3e9469b4bd329838385255d8735191c)
 
-- [download from Sourceforge http://sourceforge.net/projects/salix/files/14.0/salix-xfce-14.0.1.iso/download]
-- [torrent download http://download.salixos.org/i486/14.0/iso/salix-xfce-14.0.1.iso.torrent]
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/14.1/salix-xfce-14.1.iso/download]
+- [torrent download http://download.salixos.org/i486/14.1/iso/salix-xfce-14.1.iso.torrent]
 
 
-== Salix64 Xfce 14.0.1 CD ISO (x86_64, 64-bit) ==
+== Salix64 Xfce 14.1 DVD ISO (x86_64, 64-bit) ==
 
-(size: 673 MB, md5: cccc69373ed40005ad071ffe6156950f)
+(size:713 MB, md5: fcb3509ff1fe4d27395b71ebe0801e74)
 
-- [download from Sourceforge http://sourceforge.net/projects/salix/files/14.0/salix64-xfce-14.0.1.iso/download]
-- [torrent download http://download.salixos.org/x86_64/14.0/iso/salix64-xfce-14.0.1.iso.torrent]
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/14.1/salix64-xfce-14.1.iso/download]
+- [torrent download http://download.salixos.org/x86_64/14.1/iso/salix64-xfce-14.1.iso.torrent]
 
 
 = =[kde]
