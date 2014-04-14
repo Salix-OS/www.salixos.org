@@ -23,7 +23,7 @@ thumbs:
 	done
 
 help:
-	@echo 'Makefile for a pelican Web site                                        '
+	@echo 'Makefile for creating a Web site using txt2tags                        '
 	@echo '                                                                       '
 	@echo 'Usage:                                                                 '
 	@echo '   make                             (re)generate the web site          '
