@@ -35,6 +35,20 @@ Screenshots
 <a rel="xfce14.1" href="./screenshots/Salix-Xfce-14.1-10.png"><img alt="last" src="./screenshots/thumb_Salix-Xfce-14.1-10.png" /></a>
 '''
 
+== Salix System Tools and Applications ==
+
+'''
+<a rel="apps" href="./screenshots/tools-gtkclocksetup.png" title="System clock configuration"><img alt="" src="./screenshots/thumb_tools-gtkclocksetup.png" /></a>
+<a rel="apps" href="./screenshots/tools-gtkclocksetup-el.png" title="System clock configuration (Greek localization)"><img alt="" src="./screenshots/thumb_tools-gtkclocksetup-el.png" /></a>
+<a rel="apps" href="./screenshots/tools-gtkkeyboardsetup.png" title="Systemwide keyboard settings"><img alt="" src="./screenshots/thumb_tools-gtkkeyboardsetup.png" /></a>
+<a rel="apps" href="./screenshots/tools-gtklocalesetup.png" title="System locale"><img alt="" src="./screenshots/thumb_tools-gtklocalesetup.png" /></a>
+<a rel="apps" href="./screenshots/tools-gtkservicesetup.png" title="System services"><img alt="" src="./screenshots/thumb_tools-gtkservicesetup.png" /></a>
+<a rel="apps" href="./screenshots/tools-gtkusersetup.png" title="User configuration"><img alt="" src="./screenshots/thumb_tools-gtkusersetup.png" /></a>
+<a rel="apps" href="./screenshots/tools-gtkusersetup-el.png" title="User configuration (Greek localization)"><img alt="" src="./screenshots/thumb_tools-gtkusersetup-el.png" /></a>
+<a rel="apps" href="./screenshots/tools-sourcery-main.png" title="Sourcery main window"><img alt="" src="./screenshots/thumb_tools-sourcery-main.png" /></a>
+<a rel="apps" href="./screenshots/tools-sourcery-info.png" title="Sourcery SlackBuild information window"><img alt="last" src="./screenshots/thumb_tools-sourcery-info.png" /></a>
+'''
+
 
 % The footer is an external file
 
