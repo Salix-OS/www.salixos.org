@@ -78,7 +78,6 @@
 %!postproc: (</HEAD>)	<meta name="description" content="Salix - The Linux distribution for the lazy Slacker!">\n\1
 
 % Create a link bank to keep the text clean
-%!preproc: MBALLON http://www.mossieur-ballon.fr
 %!preproc: MODERNVINTAGE http://www.modernvintagestyle.co.uk
 %!preproc: PAINHEALTH http://www.lowerabdominalpaintreatment.com
 %!preproc: VIPPI http://www.vippivelho.fi
