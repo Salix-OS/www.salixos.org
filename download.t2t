@@ -21,7 +21,7 @@ Download Salix iso images
 
 Salix is available in several editions, each built around and focused on
 a different Desktop Environment or Window Manager. In this page, you can
-find iso images for [Xfce #xfce], [KDE #kde] and [Ratpoison #ratpoison]
+find iso images for [Xfce #xfce], [MATE #mate], [KDE #kde] and [Ratpoison #ratpoison]
 editions of Salix.
 
 Older releases are available through the 
@@ -33,7 +33,7 @@ our [repository mirrors http://docs.salixos.org/wiki/Repository_mirrors].
 
 //The iso images that are available for download here are not Live images. They boot into the standard Salix installer, which is a text-mode dialog-based installer.//
 
-== ==[xfce]
+= =[xfce]
 [img/Xfce.png]
 == Salix Xfce 14.1 CD ISO (i686, 32-bit) ==
 
@@ -49,6 +49,24 @@ our [repository mirrors http://docs.salixos.org/wiki/Repository_mirrors].
 
 - [download from Sourceforge http://sourceforge.net/projects/salix/files/14.1/salix64-xfce-14.1.iso/download]
 - [torrent download http://download.salixos.org/x86_64/14.1/iso/salix64-xfce-14.1.iso.torrent]
+
+
+= =[mate]
+[img/MATE.png]
+== Salix Mate 14.1 CD ISO (i686, 32-bit) ==
+
+(size: 739 MB, md5: 1b9d403403f5e5730eb55dabb7800fa0)
+
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/14.1/salix-mate-14.1.iso/download]
+- [torrent download http://download.salixos.org/i486/14.1/iso/salix-mate-14.1.iso.torrent]
+
+
+== Salix64 Xfce 14.1 DVD ISO (x86_64, 64-bit) ==
+
+(size: 754 MB, md5: 8b5a20bb7382bb2362ffff978849aa50)
+
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/14.1/salix64-mate-14.1.iso/download]
+- [torrent download http://download.salixos.org/x86_64/14.1/iso/salix64-mate-14.1.iso.torrent]
 
 
 = =[kde]
