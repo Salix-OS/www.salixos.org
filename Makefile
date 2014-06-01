@@ -41,6 +41,8 @@ upload: html thumbs
 		--exclude "*.t2t" \
 		--exclude ".git" \
 		--exclude ".gitignore" \
+		--exclude mirmon \
+		--exclude mirmon.html \
 		--exclude Makefile \
 		--delete ./ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
