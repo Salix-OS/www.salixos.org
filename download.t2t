@@ -67,7 +67,7 @@ The state of these mirrors can be seen in our
 
 == Salix64 Xfce 14.1 DVD ISO (x86_64, 64-bit) ==
 
-(size:713 MB, md5: fcb3509ff1fe4d27395b71ebe0801e74)
+(size: 713 MB, md5: fcb3509ff1fe4d27395b71ebe0801e74)
 
 - [download from Sourceforge http://sourceforge.net/projects/salix/files/14.1/salix64-xfce-14.1.iso/download]
 - [torrent download http://download.salixos.org/x86_64/14.1/iso/salix64-xfce-14.1.iso.torrent]
@@ -95,7 +95,7 @@ The state of these mirrors can be seen in our
 [img/KDE.png]
 == Salix KDE 14.0.1 DVD ISO (i686, 32-bit) ==
 
-(size: 931MB, md5: b3b0bad2345b4cb3de355a961da0b37e) 
+(size: 931 MB, md5: b3b0bad2345b4cb3de355a961da0b37e)
 
 - [download from Sourceforge http://sourceforge.net/projects/salix/files/14.0/salix-kde-14.0.1.iso/download]
 - [torrent download http://download.salixos.org/i486/14.0/iso/salix-kde-14.0.1.iso.torrent]
@@ -103,7 +103,7 @@ The state of these mirrors can be seen in our
 
 == Salix64 KDE 14.0.1 DVD ISO (x86_64, 64-bit) ==
 
-(size: 933MB, md5: 5c480dc99abb77d46ac244fc27d544a2) 
+(size: 933 MB, md5: 5c480dc99abb77d46ac244fc27d544a2)
 
 - [download from Sourceforge http://sourceforge.net/projects/salix/files/14.0/salix64-kde-14.0.1.iso/download]
 - [torrent download http://download.salixos.org/x86_64/14.0/iso/salix64-kde-14.0.1.iso.torrent]
@@ -111,9 +111,9 @@ The state of these mirrors can be seen in our
 
 = =[ratpoison]
 [img/Ratpoison.png]
-== Salix Ratpoison 14.0.1 CD ISO (i486, 32-bit) ==
+== Salix Ratpoison 14.0.1 CD ISO (i486 & i686, 32-bit) ==
 
-(size: 535MB, md5: 336bde2de5e763f51ba55ace51c6ec75) 
+(size: 535 MB, md5: 336bde2de5e763f51ba55ace51c6ec75)
 
 - [download from Sourceforge http://sourceforge.net/projects/salix/files/14.0/salix-ratpoison-14.0.1.iso/download]
 - [torrent download http://download.salixos.org/i486/14.0/iso/salix-ratpoison-14.0.1.iso.torrent]
@@ -121,7 +121,7 @@ The state of these mirrors can be seen in our
 
 == Salix64 Ratpoison 14.0.1 CD ISO (x86_64, 64-bit) ==
 
-(size: 476MB, md5: 5cc194b3064635c195e8dd74b7321c69) 
+(size: 476 MB, md5: 5cc194b3064635c195e8dd74b7321c69)
 
 - [download from Sourceforge http://sourceforge.net/projects/salix/files/14.0/salix64-ratpoison-14.0.1.iso/download]
 - [torrent download http://download.salixos.org/x86_64/14.0/iso/salix64-ratpoison-14.0.1.iso.torrent]
