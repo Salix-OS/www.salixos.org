@@ -21,7 +21,8 @@ Download Salix iso images
 
 Salix is available in several editions, each built around and focused on
 a different Desktop Environment or Window Manager. In this page, you can
-find iso images for [MATE #mate], [Xfce #xfce], [KDE #kde] and [Ratpoison #ratpoison]
+find iso images for [MATE #mate], [Xfce #xfce], [Openbox #openbox],
+[KDE #kde] and [Ratpoison #ratpoison]
 editions of Salix.
 
 Older releases are available through the 
@@ -70,6 +71,24 @@ The state of these mirrors can be seen in our
 
 - [download from Sourceforge http://sourceforge.net/projects/salix/files/14.1/salix64-xfce-14.1.iso/download]
 - [torrent download http://download.salixos.org/x86_64/14.1/iso/salix64-xfce-14.1.iso.torrent]
+
+
+= =[openbox]
+[img/Openbox.png]
+== Salix Openbox 14.1 CD ISO (i486 & i686, 32-bit) ==
+
+(size: 683 MB, md5: 86cd754c2366a5ecec0cac63236fb164)
+
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/14.1/salix-openbox-14.1.iso/download]
+- [torrent download http://download.salixos.org/i486/14.1/iso/salix-openbox-14.1.iso.torrent]
+
+
+== Salix64 Openbox 14.1 CD ISO (x86_64, 64-bit) ==
+
+(size: 625 MB, md5: 394240f3e00c8501e03f8878883b253b)
+
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/14.1/salix64-openbox-14.1.iso/download]
+- [torrent download http://download.salixos.org/x86_64/14.1/iso/salix64-openbox-14.1.iso.torrent]
 
 
 = =[kde]
