@@ -21,8 +21,8 @@ Download Salix iso images
 
 Salix is available in several editions, each built around and focused on
 a different Desktop Environment or Window Manager. In this page, you can
-find iso images for [MATE #mate], [Xfce #xfce], [Openbox #openbox],
-[KDE #kde] and [Ratpoison #ratpoison]
+find iso images for [MATE #mate], [Xfce #xfce], [Fluxbox #fluxbox], 
+[Openbox #openbox], [KDE #kde] and [Ratpoison #ratpoison]
 editions of Salix.
 
 Older releases are available through the 
@@ -34,7 +34,9 @@ our [repository mirrors http://docs.salixos.org/wiki/Repository_mirrors].
 The state of these mirrors can be seen in our 
 [mirror monitor page http://salixos.org/mirmon.html].
 
-//The iso images that are available for download here are not Live images. They boot into the standard Salix installer, which is a text-mode dialog-based installer.//
+//Live images are clearly marked as **SalixLive** in this list. All//
+//other iso images are not Live images. They boot into the//
+//standard Salix installer, which is a text-mode dialog-based installer.//
 
 
 = =[mate]
@@ -71,6 +73,38 @@ The state of these mirrors can be seen in our
 
 - [download from Sourceforge http://sourceforge.net/projects/salix/files/14.1/salix64-xfce-14.1.iso/download]
 - [torrent download http://download.salixos.org/x86_64/14.1/iso/salix64-xfce-14.1.iso.torrent]
+
+
+== SalixLive Xfce 14.1 DVD ISO (i686, 32-bit) ==
+
+(size: 746 MB, md5: 331e55d6d17d22e77703ca9b2f287b42)
+
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/14.1/salixlive-xfce-14.1.iso/download]
+- [torrent download http://download.salixos.org/i486/14.1/iso/salixlive-xfce-14.1.iso.torrent]
+
+== SalixLive64 Xfce 14.1 DVD ISO (x86_64, 64-bit) ==
+
+(size: 790 MB, md5: 1a6f5e8c37728f58b6770b41fd95d1bf)
+
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/14.1/salixlive64-xfce-14.1.iso/download]
+- [torrent download http://download.salixos.org/x86_64/14.1/iso/salixlive64-xfce-14.1.iso.torrent]
+
+= =[fluxbox]
+[img/Fluxbox.png]
+== Salix Fluxbox 14.1 CD ISO (i486 & i686, 32-bit) ==
+
+(size: 671 MB, md5: f2b1969b952f6f46a5f542426f0c397f)
+
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/14.1/salix-fluxbox-14.1.iso/download]
+- [torrent download http://download.salixos.org/i486/14.1/iso/salix-fluxbox-14.1.iso.torrent]
+
+
+== Salix64 Fluxbox 14.1 CD ISO (x86_64, 64-bit) ==
+
+(size: 613 MB, md5: 021b9accb0d009fbbd6e03e1ecb4d539)
+
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/14.1/salix64-fluxbox-14.1.iso/download]
+- [torrent download http://download.salixos.org/x86_64/14.1/iso/salix64-fluxbox-14.1.iso.torrent]
 
 
 = =[openbox]
