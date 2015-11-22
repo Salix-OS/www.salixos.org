@@ -57,6 +57,32 @@ The state of these mirrors can be seen in our
 - [torrent download http://download.salixos.org/x86_64/14.1/iso/salix64-mate-14.1.iso.torrent]
 
 
+== SalixLive Mate 14.1 DVD ISO (i686, 32-bit) ==
+
+(size: 852 MB, md5: 96bed0f465c266850fd105a2eec940e1)
+
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/14.1/salixlive-mate-14.1.iso/download]
+- [torrent download http://salix.enialis.net/i486/14.1/iso/salixlive-mate-14.1.iso.torrent]
+
+
+//If you want to transfer the live iso to a USB stick, make sure you read//
+//the instructions in this//
+//[README. http://people.salixos.org/gapan/live/README_INSTALL_ON_USB.TXT]//
+
+
+== SalixLive64 Mate 14.1 DVD ISO (x86_64, 64-bit) ==
+
+(size: 859 MB, md5: aaae8e170d477a3602a3d6f7222d0b3b)
+
+- [download from Sourceforge http://sourceforge.net/projects/salix/files/14.1/salixlive64-mate-14.1.iso/download]
+- [torrent download http://salix.enialis.net/x86_64/14.1/iso/salixlive64-mate-14.1.iso.torrent]
+
+
+//If you want to transfer the live iso to a USB stick, make sure you read//
+//the instructions in this//
+//[README. http://people.salixos.org/gapan/live/README_INSTALL_ON_USB.TXT]//
+
+
 = =[xfce]
 [img/Xfce.png]
 == Salix Xfce 14.1 CD ISO (i686, 32-bit) ==
@@ -75,10 +101,6 @@ The state of these mirrors can be seen in our
 - [torrent download http://download.salixos.org/x86_64/14.1/iso/salix64-xfce-14.1.iso.torrent]
 
 
-//If you want to transfer the iso to a USB stick, make sure you read//
-//the instructions in this//
-//[README. http://people.salixos.org/gapan/live/README_INSTALL_ON_USB.TXT]//
-
 == SalixLive Xfce 14.1 DVD ISO (i686, 32-bit) ==
 
 (size: 746 MB, md5: 331e55d6d17d22e77703ca9b2f287b42)
@@ -87,9 +109,10 @@ The state of these mirrors can be seen in our
 - [torrent download http://download.salixos.org/i486/14.1/iso/salixlive-xfce-14.1.iso.torrent]
 
 
-//If you want to transfer the iso to a USB stick, make sure you read//
+//If you want to transfer the live iso to a USB stick, make sure you read//
 //the instructions in this//
 //[README. http://people.salixos.org/gapan/live/README_INSTALL_ON_USB.TXT]//
+
 
 == SalixLive64 Xfce 14.1 DVD ISO (x86_64, 64-bit) ==
 
@@ -97,6 +120,10 @@ The state of these mirrors can be seen in our
 
 - [download from Sourceforge http://sourceforge.net/projects/salix/files/14.1/salixlive64-xfce-14.1.iso/download]
 - [torrent download http://download.salixos.org/x86_64/14.1/iso/salixlive64-xfce-14.1.iso.torrent]
+
+//If you want to transfer the live iso to a USB stick, make sure you read//
+//the instructions in this//
+//[README. http://people.salixos.org/gapan/live/README_INSTALL_ON_USB.TXT]//
 
 
 = =[fluxbox]
