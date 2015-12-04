@@ -81,3 +81,7 @@
 %!preproc: MODERNVINTAGE http://www.modernvintagestyle.co.uk
 %!preproc: PAINHEALTH http://www.lowerabdominalpaintreatment.com
 %!preproc: VIPPI http://www.vippivelho.fi
+
+% Add alt-text for logos
+%!postproc: '(?i)(chameleon-john.png.*?ALT=")'  '\1ChameleonJohn - Promo Codes & Discounts'
+
