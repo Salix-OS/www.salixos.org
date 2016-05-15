@@ -21,9 +21,8 @@ Download Salix iso images
 
 Salix is available in several editions, each built around and focused on
 a different Desktop Environment or Window Manager. In this page, you can
-find iso images for [MATE #mate], [Xfce #xfce], [Fluxbox #fluxbox], 
-[Openbox #openbox], [KDE #kde] and [Ratpoison #ratpoison]
-editions of Salix.
+find iso images for [MATE #mate], [Xfce #xfce], [Fluxbox #fluxbox] and
+[Openbox #openbox] editions of Salix.
 
 Older releases are available through the 
 [Salix project page at Sourceforge http://sourceforge.net/projects/salix/].
@@ -160,42 +159,6 @@ The state of these mirrors can be seen in our
 
 - [download from Sourceforge http://sourceforge.net/projects/salix/files/14.1/salix64-openbox-14.1.iso/download]
 - [torrent download http://download.salixos.org/x86_64/14.1/iso/salix64-openbox-14.1.iso.torrent]
-
-
-= =[kde]
-[img/KDE.png]
-== Salix KDE 14.0.1 DVD ISO (i686, 32-bit) ==
-
-(size: 931 MB, md5: b3b0bad2345b4cb3de355a961da0b37e)
-
-- [download from Sourceforge http://sourceforge.net/projects/salix/files/14.0/salix-kde-14.0.1.iso/download]
-- [torrent download http://download.salixos.org/i486/14.0/iso/salix-kde-14.0.1.iso.torrent]
-
-
-== Salix64 KDE 14.0.1 DVD ISO (x86_64, 64-bit) ==
-
-(size: 933 MB, md5: 5c480dc99abb77d46ac244fc27d544a2)
-
-- [download from Sourceforge http://sourceforge.net/projects/salix/files/14.0/salix64-kde-14.0.1.iso/download]
-- [torrent download http://download.salixos.org/x86_64/14.0/iso/salix64-kde-14.0.1.iso.torrent]
-
-
-= =[ratpoison]
-[img/Ratpoison.png]
-== Salix Ratpoison 14.0.1 CD ISO (i486 & i686, 32-bit) ==
-
-(size: 535 MB, md5: 336bde2de5e763f51ba55ace51c6ec75)
-
-- [download from Sourceforge http://sourceforge.net/projects/salix/files/14.0/salix-ratpoison-14.0.1.iso/download]
-- [torrent download http://download.salixos.org/i486/14.0/iso/salix-ratpoison-14.0.1.iso.torrent]
-
-
-== Salix64 Ratpoison 14.0.1 CD ISO (x86_64, 64-bit) ==
-
-(size: 476 MB, md5: 5cc194b3064635c195e8dd74b7321c69)
-
-- [download from Sourceforge http://sourceforge.net/projects/salix/files/14.0/salix64-ratpoison-14.0.1.iso/download]
-- [torrent download http://download.salixos.org/x86_64/14.0/iso/salix64-ratpoison-14.0.1.iso.torrent]
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
