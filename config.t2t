@@ -83,6 +83,5 @@
 %!preproc: VIPPI http://www.vippivelho.fi
 
 % Add alt-text for logos
-%!postproc: '(?i)(chameleon-john.png.*?ALT=")'  '\1ChameleonJohn - Promo Codes & Discounts'
 %!postproc: '(?i)(travel-ticker.png.*?ALT=")'  '\1Travel Ticker" TITLE="Travel Ticker'
 
