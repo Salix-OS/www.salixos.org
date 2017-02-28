@@ -77,6 +77,9 @@
 % meta: description
 %!postproc: (</HEAD>)	<meta name="description" content="Salix - The Linux distribution for the lazy Slacker!">\n\1
 
+% meta: viewport
+%!postproc: (</HEAD>)	<meta name="viewport" content="width=device-width, initial-scale=1.0">\n\1
+
 % Create a link bank to keep the text clean
 %!preproc: MODERNVINTAGE http://www.modernvintagestyle.co.uk
 %!preproc: PAINHEALTH http://www.lowerabdominalpaintreatment.com
