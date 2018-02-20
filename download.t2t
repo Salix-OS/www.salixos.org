@@ -19,10 +19,8 @@ Download Salix iso images
 
 % Put any content below this line
 
-Salix is available in several editions, each built around and focused on
-a different Desktop Environment or Window Manager. In this page, you can
-find iso images for [MATE #mate], [Xfce #xfce], [Fluxbox #fluxbox] and
-[Openbox #openbox] editions of Salix.
+The latest Salix release is built around and focused on the [Xfce #xfce]
+Desktop Environment.
 
 Older releases are available through the 
 [Salix project page at Sourceforge http://sourceforge.net/projects/salix/].
