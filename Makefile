@@ -41,6 +41,7 @@ upload: html thumbs
 		--exclude "*.t2t" \
 		--exclude ".git" \
 		--exclude ".gitignore" \
+		--exclude "*.un~" \
 		--exclude mirmon \
 		--exclude mirmon.html \
 		--exclude Makefile \
