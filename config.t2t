@@ -84,4 +84,5 @@
 
 % Add alt-text for logos
 %!postproc: '(?i)(travel-ticker.png.*?ALT=")'  '\1Travel Ticker" TITLE="Travel Ticker'
+%!postproc: '(?i)(scams-info.png.*?ALT=")'  '\1Scams.info'
 
