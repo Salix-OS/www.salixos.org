@@ -19,10 +19,10 @@ Show your support by donating to Salix
 
 % Put any content below this line
 
-=== How to donate? ===
+= How to donate? =
 
 
-==== Using Paypal ====
+== Using Paypal ==
 
 You can use Paypal to donate in Euros:
 
@@ -33,14 +33,14 @@ Or you can donate in US dollars:
 [[img/paypal.png] https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KZFG8VNN9V9A4]
 
 
-==== Using Flattr ====
+== Using Flattr ==
 
 If you are a [Flattr http://flattr.com/] user, this is for you:
 
 [[img/flattr-badge-large.png] https://flattr.com/submit/auto?user_id=gapan&url=http%3A%2F%2Fwww.salixos.org]
 
 
-=== Why donate? ===
+= Why donate? =
 
 Salix is a project that offers everything for free and is developed in
 our free time. No income is
@@ -51,14 +51,14 @@ and of course it is always a big encouragement to know that someone
 cares that much about what we do.
 
 
-=== How much should I donate? ===
+= How much should I donate? =
 
 Any amount you can spare is welcome.
 Every little bit helps and no contribution is too small! Even the
 smallest contribution can make a difference. It all adds up in the end!
 
 
-=== What will I get for donating? ===
+= What will I get for donating? =
 
 First of all our gratitude!
 
@@ -73,7 +73,7 @@ If you want, you can also donate anonymously. Just make a note when you
 are donating and your name will not show up in the list.
 
 
-=== Are there any other ways of contributing financially? ===
+= Are there any other ways of contributing financially? =
 
 Yes! We have a partnership with the DuckDuckGo search engine. Every time
 you do a web search using our [start page http://start.salixos.org] or
@@ -83,6 +83,6 @@ generated which is split in half between DuckDuckGo and Salix. Make the
 Salix DuckDuckGo search your default and it will add up!
 
 
-== List of Donations ==[list]
+= List of Donations =[list]
 
 %!include: list-of-donations.t2t
