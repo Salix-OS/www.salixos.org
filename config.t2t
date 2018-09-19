@@ -83,6 +83,6 @@
 % Create a link bank to keep the text clean
 
 % Add alt-text for logos
+%!postproc: '(?i)(travel-ticker.png.*?ALT=")'  '\1Travel Ticker" TITLE="Travel Ticker'
 %!postproc: '(?i)(scams-info.png.*?ALT=")'  '\1Scams.info'
-%!postproc: '(?i)(newcasinouk.png.*?ALT=")'  '\1NewCasinoUK.com'
-%!postproc: '(?i)(readyslotsgo.png.*?ALT=")'  '\1www.readyslotsgo.co.uk'
+
