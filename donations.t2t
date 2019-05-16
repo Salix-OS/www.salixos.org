@@ -99,16 +99,6 @@ mentioned in the list of donations in this page and also receive a
 as there is no other way of matching a donation to a donor.
 
 
-= Are there any other ways of contributing financially? =
-
-Yes! We have a partnership with the DuckDuckGo search engine. Every time
-you do a web search using our [start page http://start.salixos.org] or
-through one of the DuckDuckGo search engines that is default in most of the
-browsers that are distributed through Salix, a tiny bit of revenue is
-generated which is split in half between DuckDuckGo and Salix. Make the
-Salix DuckDuckGo search your default and it will add up!
-
-
 = List of Donations =[list]
 
 %!include: list-of-donations.t2t
