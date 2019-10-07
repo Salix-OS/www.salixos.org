@@ -13,6 +13,7 @@ html:
 	txt2tags mailinglists.t2t
 	txt2tags guide.t2t
 	txt2tags screenshots.t2t
+	txt2tags team.t2t
 	sed -i "/^<\/HEAD>/r screenshots_header.htm" screenshots.html
 	sed -i "0,/^<\/HEAD>/s/^<\/HEAD>//1" screenshots.html
 

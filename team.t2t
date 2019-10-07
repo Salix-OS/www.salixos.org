@@ -1,0 +1,290 @@
+Team Salix
+
+Meet the members of the Salix team
+
+% See those first lines at the top? They are the page heading and
+% subheading.
+
+%!includeconf: config.t2t
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% All the config is made, so the real contents begins now
+
+% The sidebar with the menu links are on a separated file, included now
+
+%!include: menu.t2t
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Put any content below this line
+
+= Base Team =
+
+== George Vlahavas ==
+
+ [img/gapan.jpg]
+- Alias: gapan
+- Package suffix: gv
+- E-mail: vlahavas(AT)gmail(DOT)com
+- Roles: Founder, project leader, standard iso(s), system
+  GUI tools, package quality control, packager, translator,
+  stuff that nobody else really cares about
+- Github: https://github.com/gapan
+- Website: https://vlahavas.com
+- Location: Greece
+- Languages: Greek, English
+- Interests: Music, hiking with my dog, sci-fi
+
+
+== Dimitris Tzemos ==
+
+ [img/djemos.png]
+- Alias: djemos
+- Package suffix: dj
+- Email: dijemos(AT)gmail(DOT)com
+- Jabber: djemos(AT)jabber(DOT)org
+- Roles: KDE edition, Openbox edition, translator, packager
+- Repository: http://people.salixos.org/djemos/
+- Github: https://github.com/djemos
+- Website: http://www.slackel.gr
+- Flickr: https://www.flickr.com/photos/fosscomm/
+- Birthday: Dec. 21th, 1962
+- Location: Agrinion, Greece
+- Languages: Greek, English
+- Interests: Computers, GNU/Linux, Programmable Logic Controllers,
+  History of Ancient Cultures, Music
+
+
+== Richard Lapointe ==
+
+- Alias: laprjns
+- Package suffix: rl
+- Repository: http://people.salixos.org/laprjns/
+- Email: richard(AT)laprjns(DOT).com
+- Roles: package tester, packager
+- Year of birth: 1957
+- Location: Connecticut, USA
+- Languages: English 
+
+
+== Tim Beech ==
+
+- Alias: mimosa
+- Package suffix: tjb
+- Repository: http://people.salixos.org/mimosa/
+- Email: tim(DOT)beech(AT)gmail(DOT)com
+- Roles: Packager, testing department
+- Year of birth: 1967
+- Location: Brazil
+- Languages: Chinese, English, French, German, Greek, Italian, Latin,
+  Portuguese
+- Website: http://apipucos.wordpress.com
+
+
+= Packagers =
+
+== Chriss Farrell ==
+
+ [img/timcowchip.jpg]
+- Alias: timcowchip
+- Package suffix: cf
+- Repository: http://people.salixos.org/timcowchip/
+- Email: timcowchip(AT)gmail(DOT)com
+- Homepage: http://w3.gorge.net/chrisfarrell
+- Year of birth: 1947
+- Location: Oregon, USA
+- Languages: English
+
+
+== Panagiotis Papasotiriou ==
+
+- Alias: Papasot
+- Package suffix: pp
+- Email: p(DOT)pap(AT)hushmail(DOT)com
+
+
+= Translators =
+
+
+== Imar van Erven Dorens ==
+
+- Alias: imar
+- Email: gambit73 AT gmail DOT com
+- Roles: Zarafa packager and translator for Dutch
+- Birthday: 7th of march, 1973
+- Location: Schiedam, Netherlands
+- Languages: Dutch, English, French, German
+- Interests: IT, Climbing, Movies, my gf and kids
+
+
+== Yarema Prykarpatsky ==
+
+- Alias: knedlyk
+- Email: yupadmin AT gmail DOT com
+- Jabber: yupadmin AT gmail DOT com
+- Roles: Translator for Ukrainian
+- Year of birth: 1974
+- Location: L'viv, Ukraine
+- Website: https://yarema-blog.blogspot.com/
+- Languages: Ukrainian, English, Polish,
+  Russian
+- Interests: Computers, Linux, Science, Science Fiction, Adventures,
+  Mountains... 
+
+
+== Kris Thomsen ==
+
+- Alias: Kristho
+- Email: lakristho AT gmail DOT com
+- Roles: Translator for Danish
+- Website: https://kristho.wordpress.com
+- Birthday: 16th of april, 1991
+- Location: Kolding, Denmark
+- Languages: Danish, English
+- Interests: IT and music 
+
+
+== Peter Polonkai ==
+
+- Alias: Polesz
+- Email: polesz AT nedudu DOT hu
+- Roles: Translator for Hungarian
+- Website: http://nedudu.hu
+- Birthday: 2nd of november, 1969.
+- Location: Eger, Hungary
+- Languages: Hungarian, English
+- Interests: Computers, Linux, Theme design, Music
+
+
+== Fernando Velo ==
+
+- Alias: seacat
+- Email: seacat.linux(AT)gmail(DOT)com
+- Roles: Translator for Spanish
+- Year of Birth: 1967
+- Location: Buenos Aires, Argentina
+- Languages: Spanish, English
+- Interests: Computers, movies, music and
+  history of the aviation
+
+
+= Veterans =
+
+This is all quite normal and to be expected as we all have a life apart
+from Salix, most of us that are able to contribute actively to Salix
+project today will eventually go on to other (greater) passions and/or
+priorities tomorrow.
+
+Here we want to convey our deep appreciation and sincere gratitude to
+the following folks who each contributed to Salix in some important ways
+in the past and have since moved on to (greater) passions and/or
+priorities. They all played a part in making Salix what it is today
+and we wish them much success in their present enterprise.
+
+=== Thorsten Mühlfelder ===
+
+- Alias: thenktor
+- Roles:  Founder, website admin, packager, translator, iso torrent
+  seeding, chief cook and bottle washer ;)
+
+
+=== Pierrick Le Brun ===
+
+- Alias: akuna
+- Roles: Founder, packager, community manager,
+  LiveCD, translator
+
+
+=== Andreas Born ===
+
+- Alias: Shador
+- Roles: Founder, packager, Live CD
+
+
+=== Cyrille Pontvieux ===
+
+- Alias: JRD
+- Roles: Founder, Live CDs architecture, Live kernel maintainer, XFCE
+  Live iso, main repository server manager, packager
+
+
+=== Christian Dersch ===
+
+- Alias: christian
+- Roles: Founder, packager, LXDE Live CD
+
+
+=== Tomoki Tsuchiya ===
+
+- Alias: tsuren
+- Roles: Founder, packager, documentation, translator
+
+
+=== Thibaud Guerin ===
+
+- Alias: guth
+- Roles: Jabber server manager, sed guru, packager
+
+
+=== Antonio Napolitano ===
+
+- Alias: ax
+- Roles: Packager, Fluxbox edition
+
+
+=== Frédéric Galusik ===
+
+- Alias: fredg
+- Roles: French agitator, doc/translator, packager, package quality
+  control
+
+
+=== Vasile Coman ===
+
+- Alias: Kerd
+- Roles: Fluxbox edition, Translator for Italian, packager
+
+
+=== Max Boon ===
+
+- Alias: maximuus
+- Roles: Packager
+
+
+=== Luis Henrique Mello ===
+
+- Alias: lmello
+- Roles: Packager
+
+
+=== Phillip Watkins ===
+
+- Alias: pwatk
+- Roles: Packager and adding new functions to the installer
+
+
+=== Markus Muttilainen ===
+
+- Alias: stillborn
+- Roles: Packager, translator, IRC admin
+
+
+=== Matthieu Luczak ===
+
+- Alias: ralvex
+- Roles: French speaking community
+
+
+=== Mario Iván Ruvalcaba ===
+
+- Alias: icaroperseo
+- Roles: Packager
+
+
+
+
+
+% The footer is an external file
+
+%!include: footer.t2t
