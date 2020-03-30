@@ -85,6 +85,7 @@
 % Add alt-text for logos
 %!postproc: '(?i)(ip-projects.png.*?ALT=")'  '\1IP-Projects'
 %!postproc: '(?i)(mballon.png.*?ALT=")'  '\1Môssieur Ballon'
+%!postproc: '(?i)(scams-info.png.*?ALT=")'  '\1Scams.info'
 %!postproc: '(?i)(newcasinouk.png.*?ALT=")'  '\1New Casinos UK'
 %!postproc: '(?i)(img/casinopilot.gif.*?ALT=")'  '\1Online Casinos UK'
 %!postproc: '(?i)(img/eco_secretariat.png.*?ALT=")'  '\1The Economic Secretariat blog'
