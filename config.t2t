@@ -90,3 +90,4 @@
 %!postproc: '(?i)(img/casinopilot.gif.*?ALT=")'  '\1Online Casinos UK'
 %!postproc: '(?i)(img/eco_secretariat.png.*?ALT=")'  '\1The Economic Secretariat blog'
 %!postproc: '(?i)(img/lalalai_banner.gif.*?ALT=")'  '\1Vocal Remover'
+%!postproc: '(?i)(img/casinogamuk.png.*?ALT=")'  '\1Non-Gamstop Casinos'
