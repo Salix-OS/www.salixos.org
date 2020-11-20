@@ -88,6 +88,6 @@
 %!postproc: '(?i)(scams-info.png.*?ALT=")'  '\1Scams.info'
 %!postproc: '(?i)(newcasinouk.png.*?ALT=")'  '\1New Casinos UK'
 %!postproc: '(?i)(casinopilot.png.*?ALT=")'  '\1Online Casinos UK'
-%!postproc: '(?i)(eco_secretariat.png.*?ALT=")'  '\1The Economic Secretariat blog'
+%!postproc: '(?i)(eco_secretariat.jpg.*?ALT=")'  '\1The Economic Secretariat blog'
 %!postproc: '(?i)(lalalai_banner.gif.*?ALT=")'  '\1Vocal Remover'
 %!postproc: '(?i)(casinogamuk.png.*?ALT=")'  '\1Non-Gamstop Casinos'
