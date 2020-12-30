@@ -7,9 +7,45 @@
 This site is operated by the Salix OS team, with support from the
 following sponsors:
 
-| [[img/ip-projects.png] http://www.ip-projects.de/] | [[img/mballon.png] http://mossieur-ballon.com] | [[img/scams-info.png] https://www.scams.info/] | [[img/newcasinouk.png] https://newcasinouk.com/] | [[img/casinopilot.png] https://casinopilot.co.uk/all-online-casinos] | [[img/lalalai_banner.gif] https://www.lalal.ai/] | [[img/casinogamuk.png] https://casinogam.uk/] 
-
-
+'''
+<ul class="sponsors-container">
+<li class="sponsors-item">
+  <a href="https://www.ip-projects.de/">
+  <img src="img/ip-projects.png" alt="IP-Projects">
+  </a>
+</li>
+<li class="sponsors-item">
+  <a href="https://mossieur-ballon.com/">
+  <img src="img/mballon.png" alt="Môssieur Ballon">
+  </a>
+</li>
+<li class="sponsors-item">
+  <a href="https://www.scams.info/">
+  <img src="img/scams-info.png" alt="Scams.info">
+  </a>
+</li>
+<li class="sponsors-item">
+  <a href="https://newcasinouk.com/">
+  <img src="img/newcasinouk.png" alt="New Casinos UK">
+  </a>
+</li>
+<li>
+  <a href="https://casinopilot.co.uk/all-online-casinos">
+  <img src="img/casinopilot.png" alt="Online Casinos UK">
+  </a>
+</li>
+<li>
+  <a href="https://www.lalal.ai/">
+  <img src="img/lalalai_banner.gif" alt="Vocal Remover">
+  </a>
+</li>
+<li>
+  <a href="https://casinogam.uk/">
+  <img src="img/casinogamuk.png" alt="Non-Gamstop Casinos">
+  </a>
+</li>
+</ul>
+'''
 
 ''' </div><div id="fake">
 % Open a fake DIV that will be closed by the old #body </div>

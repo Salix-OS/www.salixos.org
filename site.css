@@ -569,3 +569,16 @@ body#home a:hover img
 	outline		: 3px solid blue;
 	}
 */
+
+.sponsors-container {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: flex-start;
+	padding: 0;
+	margin: 10px;
+	list-style: none;
+}
+
+.sponsors-item {
+	padding-bottom: 10px;
+}
