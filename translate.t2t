@@ -47,6 +47,8 @@ from what is listed in the Salix project page:
   package management tools that Salix uses.
 - [Dotnew https://www.transifex.com/projects/p/dotnew/]: A utility to
   process .new configuration files.
+- [Flatpak-tools https://www.transifex.com/gapan/flatpak-tools/dashboard/]:
+   Tools to manage flatpak and flatpak related files.
 
 
 % The footer is an external file
