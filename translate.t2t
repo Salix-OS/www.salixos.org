@@ -36,9 +36,11 @@ because some resources are large enough to warrant their own project
 pages. Also, there are some resources that were created as separate
 projects even before the main Salix project page existed in Transifex.
 
-So, here's a list of what else you can translate in Transifex, apart
+So, here's a list of everything you can translate in Transifex, apart
 from what is listed in the Salix project page:
 
+- [Salix project https://www.transifex.com/projects/p/salix/]: several
+  tools used in Salix, including the installer.
 - [Salixtools https://www.transifex.com/projects/p/salixtools/]: the
   Salix system tools (console version).
 - [SalixtoolsGTK https://www.transifex.com/projects/p/salixtools-gtk/]:
