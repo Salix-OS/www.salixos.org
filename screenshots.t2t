@@ -19,22 +19,24 @@ Screenshots
 
 % Put any content below this line
 
-== Salix Xfce 14.2 ==
+== Salix Xfce 15.0 ==
 
 '''
-<a rel="xfce14.2" href="./screenshots/Salix-Xfce-14.2-00.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-14.2-00.png" /></a>
-<a rel="xfce14.2" href="./screenshots/Salix-Xfce-14.2-01.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-14.2-01.png" /></a>
-<a rel="xfce14.2" href="./screenshots/Salix-Xfce-14.2-02.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-14.2-02.png" /></a>
-<a rel="xfce14.2" href="./screenshots/Salix-Xfce-14.2-03.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-14.2-03.png" /></a>
-<a rel="xfce14.2" href="./screenshots/Salix-Xfce-14.2-04.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-14.2-04.png" /></a>
-<a rel="xfce14.2" href="./screenshots/Salix-Xfce-14.2-05.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-14.2-05.png" /></a>
-<a rel="xfce14.2" href="./screenshots/Salix-Xfce-14.2-06.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-14.2-06.png" /></a>
-<a rel="xfce14.2" href="./screenshots/Salix-Xfce-14.2-07.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-14.2-07.png" /></a>
-<a rel="xfce14.2" href="./screenshots/Salix-Xfce-14.2-08.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-14.2-08.png" /></a>
-<a rel="xfce14.2" href="./screenshots/Salix-Xfce-14.2-09.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-14.2-09.png" /></a>
-<a rel="xfce14.2" href="./screenshots/Salix-Xfce-14.2-10.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-14.2-10.png" /></a>
-<a rel="xfce14.2" href="./screenshots/Salix-Xfce-14.2-11.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-14.2-11.png" /></a>
-<a rel="xfce14.2" href="./screenshots/Salix-Xfce-14.2-12.png"><img alt="last" src="./screenshots/thumb_Salix-Xfce-14.2-12.png" /></a>
+<a rel="xfce15.0" href="./screenshots/Salix-Xfce-15.0-00.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-15.0-00.png" /></a>
+<a rel="xfce15.0" href="./screenshots/Salix-Xfce-15.0-01.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-15.0-01.png" /></a>
+<a rel="xfce15.0" href="./screenshots/Salix-Xfce-15.0-02.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-15.0-02.png" /></a>
+<a rel="xfce15.0" href="./screenshots/Salix-Xfce-15.0-03.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-15.0-03.png" /></a>
+<a rel="xfce15.0" href="./screenshots/Salix-Xfce-15.0-04.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-15.0-04.png" /></a>
+<a rel="xfce15.0" href="./screenshots/Salix-Xfce-15.0-05.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-15.0-05.png" /></a>
+<a rel="xfce15.0" href="./screenshots/Salix-Xfce-15.0-06.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-15.0-06.png" /></a>
+<a rel="xfce15.0" href="./screenshots/Salix-Xfce-15.0-07.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-15.0-07.png" /></a>
+<a rel="xfce15.0" href="./screenshots/Salix-Xfce-15.0-08.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-15.0-08.png" /></a>
+<a rel="xfce15.0" href="./screenshots/Salix-Xfce-15.0-09.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-15.0-09.png" /></a>
+<a rel="xfce15.0" href="./screenshots/Salix-Xfce-15.0-10.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-15.0-10.png" /></a>
+<a rel="xfce15.0" href="./screenshots/Salix-Xfce-15.0-11.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-15.0-11.png" /></a>
+<a rel="xfce15.0" href="./screenshots/Salix-Xfce-15.0-12.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-15.0-12.png" /></a>
+<a rel="xfce15.0" href="./screenshots/Salix-Xfce-15.0-13.png"><img alt="" src="./screenshots/thumb_Salix-Xfce-15.0-13.png" /></a>
+<a rel="xfce15.0" href="./screenshots/Salix-Xfce-15.0-14.png"><img alt="last" src="./screenshots/thumb_Salix-Xfce-15.0-14.png" /></a>
 '''
 
 
@@ -42,14 +44,19 @@ Screenshots
 
 '''
 <a rel="apps" href="./screenshots/tools-gtkclocksetup.png" title="System clock configuration"><img alt="" src="./screenshots/thumb_tools-gtkclocksetup.png" /></a>
-<a rel="apps" href="./screenshots/tools-gtkclocksetup-el.png" title="System clock configuration (Greek localization)"><img alt="" src="./screenshots/thumb_tools-gtkclocksetup-el.png" /></a>
+<a rel="apps" href="./screenshots/tools-gtkclocksetup-pt.png" title="System clock configuration (Portuguese localization)"><img alt="" src="./screenshots/thumb_tools-gtkclocksetup-pt.png" /></a>
 <a rel="apps" href="./screenshots/tools-gtkkeyboardsetup.png" title="Systemwide keyboard settings"><img alt="" src="./screenshots/thumb_tools-gtkkeyboardsetup.png" /></a>
 <a rel="apps" href="./screenshots/tools-gtklocalesetup.png" title="System locale"><img alt="" src="./screenshots/thumb_tools-gtklocalesetup.png" /></a>
+<a rel="apps" href="./screenshots/tools-gtkreposetup.png" title="Choosing a package repository"><img alt="" src="./screenshots/thumb_tools-gtkreposetup.png" /></a>
+<a rel="apps" href="./screenshots/tools-gtkreposetup-el.png" title="Choosing a package repository (Greek localization)"><img alt="" src="./screenshots/thumb_tools-gtkreposetup-el.png" /></a>
 <a rel="apps" href="./screenshots/tools-gtkservicesetup.png" title="System services"><img alt="" src="./screenshots/thumb_tools-gtkservicesetup.png" /></a>
+<a rel="apps" href="./screenshots/tools-gtkhostsetup.png" title="Hostname configuration"><img alt="" src="./screenshots/thumb_tools-gtkhostsetup.png" /></a>
 <a rel="apps" href="./screenshots/tools-gtkusersetup.png" title="User configuration"><img alt="" src="./screenshots/thumb_tools-gtkusersetup.png" /></a>
-<a rel="apps" href="./screenshots/tools-gtkusersetup-el.png" title="User configuration (Greek localization)"><img alt="" src="./screenshots/thumb_tools-gtkusersetup-el.png" /></a>
-<a rel="apps" href="./screenshots/tools-sourcery-main.png" title="Sourcery main window"><img alt="" src="./screenshots/thumb_tools-sourcery-main.png" /></a>
-<a rel="apps" href="./screenshots/tools-sourcery-info.png" title="Sourcery SlackBuild information window"><img alt="last" src="./screenshots/thumb_tools-sourcery-info.png" /></a>
+<a rel="apps" href="./screenshots/tools-gtkusersetup-fr.png" title="User configuration (French localization)"><img alt="" src="./screenshots/thumb_tools-gtkusersetup-fr.png" /></a>
+<a rel="apps" href="./screenshots/tools-dotnew.png" title=""><img alt="Processing new configuration files with Dotnew" src="./screenshots/thumb_tools-dotnew.png" /></a>
+<a rel="apps" href="./screenshots/tools-guefi.png" title=""><img alt="UEFI boot entries configuration with GUEFI" src="./screenshots/thumb_tools-guefi.png" /></a>
+<a rel="apps" href="./screenshots/tools-flatpak.png" title="Installing software from Flathub"><img alt="" src="./screenshots/thumb_tools-flatpak.png" /></a>
+<a rel="apps" href="./screenshots/tools-gslapt.png" title="Installing a package along with its dependencies with Gslapt"><img alt="last" src="./screenshots/thumb_tools-gslapt.png" /></a>
 '''
 
 
