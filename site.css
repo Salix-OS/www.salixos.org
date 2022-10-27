@@ -570,7 +570,7 @@ body#home a:hover img
 	}
 */
 
-.sponsors-container {
+.sponsors {
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: flex-start;
