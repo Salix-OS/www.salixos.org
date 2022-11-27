@@ -31,6 +31,10 @@ our [repository mirrors http://docs.salixos.org/wiki/Repository_mirrors].
 The state of these mirrors can be seen in our 
 [mirror monitor page http://salixos.org/mirmon.html].
 
+//Live images are clearly marked as **SalixLive** in this list. All//
+//other iso images are not Live images. They boot into the//
+//standard Salix installer, which is a text-mode dialog-based installer.//
+
 
 = =[xfce]
 [img/Xfce.png]
