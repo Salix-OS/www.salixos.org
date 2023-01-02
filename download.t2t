@@ -78,8 +78,3 @@ The state of these mirrors can be seen in our
 //read the instructions in this//
 //[README https://download.salixos.org/i486/15.0/iso/README_SALIXLIVE_INSTALL_ON_USB.TXT].//
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% The footer is an external file
-
-%!include: footer.t2t

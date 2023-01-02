@@ -74,6 +74,3 @@ Screenshots
 <a rel="user" href="./screenshots/user-missTell-icewm-pink-15.0.png" title="Salix 15.0, IceWM, Pink theme -- missTell"><img alt="last" src="./screenshots/thumb_user-missTell-icewm-pink-15.0.png" /></a>
 '''
 
-% The footer is an external file
-
-%!include: footer.t2t

@@ -52,7 +52,3 @@ from what is listed in the Salix project page:
 - [Flatpak-tools https://www.transifex.com/gapan/flatpak-tools/dashboard/]:
    Tools to manage flatpak and flatpak related files.
 
-
-% The footer is an external file
-
-%!include: footer.t2t
