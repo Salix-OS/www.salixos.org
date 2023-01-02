@@ -20,7 +20,7 @@ html:
 thumbs:
 	@echo 'Creating thumbnails...'
 	@for f in `ls screenshots/*.png | sed "s|^screenshots/||" | grep -v "thumb_"`; do \
-		[ -f screenshots/thumb_$$f ] || convert screenshots/$$f -resize 200 screenshots/thumb_$$f; \
+		[ -f screenshots/thumb_$$f ] || convert screenshots/$$f -resize x140 screenshots/thumb_$$f; \
 	done
 
 help:
