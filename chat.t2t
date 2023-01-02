@@ -33,7 +33,3 @@ connect or you can connect by visiting the
 [web interface https://web.libera.chat/#salix]
 that libera.chat provides with your web browser.
 
-
-% The footer is an external file
-
-%!include: footer.t2t
