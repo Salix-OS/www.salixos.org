@@ -52,6 +52,8 @@ following sponsors:
 </ul>
 '''
 
+''' <div name="mastodon" style="display: none;"><a rel="me" href="https://fosstodon.org/@salix">Mastodon</a></div>
+
 ''' </div><div id="fake">
 % Open a fake DIV that will be closed by the old #body </div>
 
