@@ -80,3 +80,10 @@
 % meta: viewport
 %!postproc: (</HEAD>)	<meta name="viewport" content="width=device-width, initial-scale=1.0">\n\1
 
+% meta: opengraph
+%!postproc: (</HEAD>)	<meta property="og:title" content="Salix" />\n\1
+%!postproc: (</HEAD>)	<meta property="og:description" content="Linux for the Lazy Slacker" />\n\1
+%!postproc: (</HEAD>)	<meta property="og:type" content="website" />\n\1
+%!postproc: (</HEAD>)	<meta property="og:url" content="https://salixos.org/" />\n\1
+%!postproc: (</HEAD>)	<meta property="og:image" content="/img/og_image.png"/>\n\1
+
