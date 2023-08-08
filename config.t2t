@@ -42,7 +42,10 @@
 %!postproc: '(?i)(<head>)'	'\1\n<meta name="author" content="George Vlahavas <vlahavas~at~gmail~dot~com>">'
 
 % Trick to add the favicon meta tag right before the </head> tag.
-%!postproc: '(?i)(</head>)'	'<link rel="icon" type="image/png" href="img/favicon.png">\n\1'
+%!postproc: '(?i)(</head>)'	'<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">\n\1'
+%!postproc: '(?i)(</head>)'	'<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">\n\1'
+%!postproc: '(?i)(</head>)'	'<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">\n\1'
+%!postproc: '(?i)(</head>)'	'<link rel="manifest" href="/site.webmanifest">\n\1'
 
 % Trick to add the TITLE/ALT attribute to an image
 %!postproc: '(?i)(src="[^"]*t2tpowered.png")'         '\1 title="O>OOOO"'
