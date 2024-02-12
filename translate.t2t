@@ -39,16 +39,16 @@ projects even before the main Salix project page existed in Transifex.
 So, here's a list of everything you can translate in Transifex, apart
 from what is listed in the Salix project page:
 
-- [Salix project https://www.transifex.com/projects/p/salix/]: several
+- [Salix project https://explore.transifex.com/gapan/salix/]: several
   tools used in Salix, including the installer.
-- [Salixtools https://www.transifex.com/projects/p/salixtools/]: the
+- [Salixtools https://explore.transifex.com/gapan/salixtools/]: the
   Salix system tools (console version).
-- [SalixtoolsGTK https://www.transifex.com/projects/p/salixtools-gtk/]:
+- [SalixtoolsGTK https://explore.transifex.com/gapan/salixtools-gtk/]:
   The Salix system tools (GTK version).
-- [Slapt-get https://www.transifex.com/projects/p/slapt-get/]: The
+- [Slapt-get https://explore.transifex.com/jaos/slapt-get/]: The
   package management tools that Salix uses.
-- [Dotnew https://www.transifex.com/projects/p/dotnew/]: A utility to
+- [Dotnew https://explore.transifex.com/gapan/dotnew/]: A utility to
   process .new configuration files.
-- [Flatpak-tools https://www.transifex.com/gapan/flatpak-tools/dashboard/]:
+- [Flatpak-tools https://explore.transifex.com/gapan/flatpak-tools/]:
    Tools to manage flatpak and flatpak related files.
 
