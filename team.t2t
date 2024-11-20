@@ -84,18 +84,6 @@ Meet the members of the Salix team
 
 = Packagers =
 
-== Chriss Farrell ==
-
- [img/timcowchip.jpg]
-- Alias: timcowchip
-- Package suffix: cf
-- Repository: https://people.salixos.org/timcowchip/
-- Email: timcowchip(AT)gmail(DOT)com
-- Homepage: https://w3.gorge.net/chrisfarrell
-- Year of birth: 1947
-- Location: Oregon, USA
-- Languages: English
-
 
 == Panagiotis Papasotiriou ==
 
@@ -218,6 +206,12 @@ and we wish them much success in their present enterprise.
 - Alias: JRD
 - Roles: Founder, Live CDs architecture, Live kernel maintainer, XFCE
   Live iso, main repository server manager, packager
+
+
+== Chriss Farrell ==
+
+- Alias: timcowchip
+- Roles: Packager
 
 
 === Christian Dersch ===
