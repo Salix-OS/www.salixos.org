@@ -45,9 +45,9 @@ Meet the members of the Salix team
 - Email: dijemos(AT)gmail(DOT)com
 - Jabber: djemos(AT)jabber(DOT)org
 - Roles: KDE edition, Openbox edition, translator, packager
-- Repository: http://people.salixos.org/djemos/
+- Repository: https://people.salixos.org/djemos/
 - Github: https://github.com/djemos
-- Website: http://www.slackel.gr
+- Website: https://www.slackel.gr
 - Flickr: https://www.flickr.com/photos/fosscomm/
 - Birthday: Dec. 21th, 1962
 - Location: Agrinion, Greece
@@ -60,7 +60,7 @@ Meet the members of the Salix team
 
 - Alias: laprjns
 - Package suffix: rl
-- Repository: http://people.salixos.org/laprjns/
+- Repository: https://people.salixos.org/laprjns/
 - Email: richard(AT)laprjns(DOT).com
 - Roles: package tester, packager
 - Year of birth: 1957
@@ -72,29 +72,17 @@ Meet the members of the Salix team
 
 - Alias: mimosa
 - Package suffix: tjb
-- Repository: http://people.salixos.org/mimosa/
+- Repository: https://people.salixos.org/mimosa/
 - Email: tim(DOT)beech(AT)gmail(DOT)com
 - Roles: Packager, testing department
 - Year of birth: 1967
 - Location: Brazil
 - Languages: Chinese, English, French, German, Greek, Italian, Latin,
   Portuguese
-- Website: http://apipucos.wordpress.com
+- Website: https://apipucos.wordpress.com
 
 
 = Packagers =
-
-== Chriss Farrell ==
-
- [img/timcowchip.jpg]
-- Alias: timcowchip
-- Package suffix: cf
-- Repository: http://people.salixos.org/timcowchip/
-- Email: timcowchip(AT)gmail(DOT)com
-- Homepage: http://w3.gorge.net/chrisfarrell
-- Year of birth: 1947
-- Location: Oregon, USA
-- Languages: English
 
 
 == Panagiotis Papasotiriou ==
@@ -150,7 +138,6 @@ Meet the members of the Salix team
 - Alias: Polesz
 - Email: polesz AT nedudu DOT hu
 - Roles: Translator for Hungarian
-- Website: http://nedudu.hu
 - Birthday: 2nd of november, 1969
 - Location: Eger, Hungary
 - Languages: Hungarian, English
@@ -219,6 +206,12 @@ and we wish them much success in their present enterprise.
 - Alias: JRD
 - Roles: Founder, Live CDs architecture, Live kernel maintainer, XFCE
   Live iso, main repository server manager, packager
+
+
+=== Chriss Farrell ===
+
+- Alias: timcowchip
+- Roles: Packager
 
 
 === Christian Dersch ===
