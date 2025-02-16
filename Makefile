@@ -8,16 +8,17 @@ build:
 	mkdir public
 	git worktree prune
 	rm -rf .git/worktrees/public/
-	git worktree add -B $(GIT_PUBLISH_BRANCH) public origin/$(GIT_PUBLISH_BRANCH)
+	git worktree add -B public public origin/public
 	rm -rf public/*
 	$(MAKE) html
-	rsync \
+	rsync -a \
 		--exclude "*.t2t" \
 		--exclude ".git" \
 		--exclude ".gitignore" \
 		--exclude "*.un~" \
+		--exclude public \
 		--exclude Makefile \
-		./ public/
+		./* public/
 	touch public/.nojekyll
 
 html: 
