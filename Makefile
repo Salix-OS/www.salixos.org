@@ -2,6 +2,7 @@ SSH_HOST=salixos.org
 SSH_PORT=22
 SSH_USER=web
 SSH_TARGET_DIR=/srv/www/www.salixos.org
+GITREPO=git@github.com:Salix-OS/www.salixos.org.git
 
 html: 
 	txt2tags index.t2t
