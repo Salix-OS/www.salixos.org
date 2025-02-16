@@ -2,7 +2,23 @@ SSH_HOST=salixos.org
 SSH_PORT=22
 SSH_USER=web
 SSH_TARGET_DIR=/srv/www/www.salixos.org
-GITREPO=git@github.com:Salix-OS/www.salixos.org.git
+
+build:
+	rm -rf public
+	mkdir public
+	git worktree prune
+	rm -rf .git/worktrees/public/
+	git worktree add -B $(GIT_PUBLISH_BRANCH) public origin/$(GIT_PUBLISH_BRANCH)
+	rm -rf public/*
+	$(MAKE) html
+	rsync \
+		--exclude "*.t2t" \
+		--exclude ".git" \
+		--exclude ".gitignore" \
+		--exclude "*.un~" \
+		--exclude Makefile \
+		./ public/
+	touch public/.nojekyll
 
 html: 
 	txt2tags index.t2t
