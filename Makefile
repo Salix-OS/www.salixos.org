@@ -66,4 +66,10 @@ upload: html thumbs
 		--exclude Makefile \
 		--delete ./ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
-.PHONY: html thumbs help clean upload
+publish: build
+	cd public && \
+	git add --all && \
+	git commit -m "Publish on `LANG=C.utf8 date`" && \
+	git push -u origin public
+
+.PHONY: build publish html thumbs help clean upload
