@@ -17,6 +17,7 @@ build:
 		--exclude ".gitignore" \
 		--exclude "*.un~" \
 		--exclude public \
+		--exclude screenshots_header.htm \
 		--exclude Makefile \
 		./* public/
 	touch public/.nojekyll
