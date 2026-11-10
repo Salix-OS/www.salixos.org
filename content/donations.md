@@ -4,22 +4,6 @@ subtitle: "Show your support by donating to Salix"
 aliases: ["/donations.html"]
 ---
 
-# How to donate?
-
-## Using Paypal
-
-You can use Paypal to donate in Euros:
-
-[![](/img/paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QYWPKSCJ326JW)
-
-Or you can donate in US dollars:
-
-[![](/img/paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KZFG8VNN9V9A4)
-
-## Using Cryptocurrencies
-
-{{< crypto >}}
-
 # Why donate?
 
 Salix is a project that offers everything for free and is developed in
@@ -63,6 +47,22 @@ If you donate with cryptocurrencies and would like to have your name
 mentioned in the list of donations in this page and also receive a
 "Donor" status in the forum, please send an email notifying us about it,
 as there is no other way of matching a donation to a donor.
+
+# How to donate?
+
+## Using Paypal
+
+You can use Paypal to donate in Euros:
+
+[![](/img/paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QYWPKSCJ326JW)
+
+Or you can donate in US dollars:
+
+[![](/img/paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KZFG8VNN9V9A4)
+
+## Using Cryptocurrencies
+
+{{< crypto >}}
 
 # List of Donations {#list}
 
