@@ -1,0 +1,5 @@
+<header id="header">
+  <h1>{{ .Title }}</h1>
+  {{ with .Params.subtitle }}<p class="subtitle">{{ . }}</p>{{ end }}
+</header>
+{{ partial "nav.html" . }}

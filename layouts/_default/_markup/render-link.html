@@ -1,0 +1,2 @@
+<a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if eq .Destination "https://fosstodon.org/@salix" }} rel="me"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- /* rel="me" lets Mastodon verify the site link on the @salix profile */ -}}

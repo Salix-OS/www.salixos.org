@@ -1,0 +1,26 @@
+# One entry per desktop environment / release. Edit sizes, md5 and links here.
+- id: xfce
+  image: /img/Xfce.png
+  editions:
+    - title: "Salix64 Xfce 15.0 (x86_64, 64-bit)"
+      size: 1.4GB
+      md5: 46121e56e3e5621d6b905ab53ed9ce8d
+      iso: https://sourceforge.net/projects/salix/files/15.0/salix64-xfce-15.0.iso/download
+      torrent: https://download.salixos.org/x86_64/15.0/iso/salix64-xfce-15.0.torrent
+    - title: "SalixLive64 Xfce 15.0 (x86_64, 64-bit)"
+      size: 1.7GB
+      md5: 5400d0833f56e5abcb2fb7999795ef87
+      iso: https://sourceforge.net/projects/salix/files/15.0/salixlive64-xfce-15.0.iso/download
+      torrent: https://download.salixos.org/x86_64/15.0/iso/salixlive64-xfce-15.0.torrent
+      readme: https://download.salixos.org/x86_64/15.0/iso/README_SALIXLIVE_INSTALL_ON_USB.TXT
+    - title: "Salix Xfce 15.0 (i586/i686, 32-bit)"
+      size: 1.4GB
+      md5: bbb839c08938f72e547fd3fa9ef121b0
+      iso: https://sourceforge.net/projects/salix/files/15.0/salix-xfce-15.0.iso/download
+      torrent: https://download.salixos.org/i486/15.0/iso/salix-xfce-15.0.torrent
+    - title: "SalixLive Xfce 15.0 (i586/i686, 32-bit)"
+      size: 1.7GB
+      md5: a21d9eb701a166313b5967dc4728d681
+      iso: https://sourceforge.net/projects/salix/files/15.0/salixlive-xfce-15.0.iso/download
+      torrent: https://download.salixos.org/i486/15.0/iso/salixlive-xfce-15.0.torrent
+      readme: https://download.salixos.org/i486/15.0/iso/README_SALIXLIVE_INSTALL_ON_USB.TXT

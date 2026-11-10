@@ -1,0 +1,44 @@
+- title: "Salix Xfce 15.0"
+  images:
+    - {file: Salix-Xfce-15.0-00.png, caption: ""}
+    - {file: Salix-Xfce-15.0-01.png, caption: ""}
+    - {file: Salix-Xfce-15.0-02.png, caption: ""}
+    - {file: Salix-Xfce-15.0-03.png, caption: ""}
+    - {file: Salix-Xfce-15.0-04.png, caption: ""}
+    - {file: Salix-Xfce-15.0-05.png, caption: ""}
+    - {file: Salix-Xfce-15.0-06.png, caption: ""}
+    - {file: Salix-Xfce-15.0-07.png, caption: ""}
+    - {file: Salix-Xfce-15.0-08.png, caption: ""}
+    - {file: Salix-Xfce-15.0-09.png, caption: ""}
+    - {file: Salix-Xfce-15.0-10.png, caption: ""}
+    - {file: Salix-Xfce-15.0-11.png, caption: ""}
+    - {file: Salix-Xfce-15.0-12.png, caption: ""}
+    - {file: Salix-Xfce-15.0-13.png, caption: ""}
+    - {file: Salix-Xfce-15.0-14.png, caption: ""}
+- title: "Salix System Tools and Applications"
+  images:
+    - {file: tools-gtkclocksetup.png, caption: "System clock configuration"}
+    - {file: tools-gtkclocksetup-pt.png, caption: "System clock configuration (Portuguese localization)"}
+    - {file: tools-gtkkeyboardsetup.png, caption: "Systemwide keyboard settings"}
+    - {file: tools-gtklocalesetup.png, caption: "System locale"}
+    - {file: tools-gtkreposetup.png, caption: "Choosing a package repository"}
+    - {file: tools-gtkreposetup-el.png, caption: "Choosing a package repository (Greek localization)"}
+    - {file: tools-gtkservicesetup.png, caption: "System services"}
+    - {file: tools-gtkhostsetup.png, caption: "Hostname configuration"}
+    - {file: tools-gtkusersetup.png, caption: "User configuration"}
+    - {file: tools-gtkusersetup-fr.png, caption: "User configuration (French localization)"}
+    - {file: tools-dotnew.png, caption: "Processing new configuration files with Dotnew"}
+    - {file: tools-guefi.png, caption: "UEFI boot entries configuration with GUEFI"}
+    - {file: tools-flatpak.png, caption: "Installing software from Flathub"}
+    - {file: tools-gslapt.png, caption: "Installing a package along with its dependencies with Gslapt"}
+- title: "User Screenshots"
+  images:
+    - {file: user-salix-xfce-15.0-eeepc.png, caption: "Salix Xfce 15.0 (Greek locale) on an Asus eeePC 901"}
+    - {file: user-deniro-15.0.png, caption: "Salix Xfce 15.0 with Dracula theme -- deniro"}
+    - {file: user-oblivion23-15.0.png, caption: "Salix Xfce 15.0 with official Xfce 4.18 -- oblivion23"}
+    - {file: user-missTell-verticalbar-15.0.png, caption: "Salix Xfce 15.0, vertical toolbar  -- missTell"}
+    - {file: user-missTell-dark-15.0.png, caption: "Salix Xfce 15.0, dark -- missTell"}
+    - {file: user-missTell-capuccino-15.0.png, caption: "Salix Xfce 15.0, capuccino -- missTell"}
+    - {file: user-missTell-icewm-15.0.png, caption: "Salix 15.0, IceWM, default Salix theme -- missTell"}
+    - {file: user-missTell-slim-pink-15.0.png, caption: "Salix 15.0, Slim Login Manager, Pink theme -- missTell"}
+    - {file: user-missTell-icewm-pink-15.0.png, caption: "Salix 15.0, IceWM, Pink theme -- missTell"}

@@ -1,0 +1,19 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ .Title }}</title>
+<meta name="author" content="{{ site.Params.author }}">
+<meta name="keywords" content="{{ site.Params.keywords }}">
+<meta name="description" content="{{ site.Params.description }}">
+<meta property="og:title" content="Salix">
+<meta property="og:description" content="{{ site.Params.ogDescription }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://salixos.org/">
+<meta property="og:image" content="{{ site.Params.ogImage }}">
+{{ if .IsHome }}<link rel="alternate" href="{{ site.Params.rssFeed }}" type="application/rss+xml">
+{{ end }}{{ $css := resources.Get "css/site.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">

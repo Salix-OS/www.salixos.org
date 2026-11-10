@@ -1,0 +1,111 @@
+/* Salix website stylesheet. Palette: green header (#6c6), light-green accents (#cf9). */
+:root {
+  /* Side margin of the content and footer: 1.8rem on small screens,
+     growing with the viewport from about 900px wide, up to 18rem. */
+  --gutter: clamp(1.8rem, 14vw - 6rem, 18rem);
+  --bg: #fff;
+  --fg: #444;
+  --strong: #000;
+  --link: #00f;
+  --visited: #66f;
+  --hover: #ccf;
+  --header: #6c6;
+  --accent: #cf9;
+  --accent-fg: #030;
+  --accent-link: #363;
+  --accent-hover: #ad7;
+  --code-bg: #eee;
+  --border: #ccc;
+  --th-border: #aaa;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1b211b;
+    --fg: #d6d9d6;
+    --strong: #fff;
+    --link: #8ab4ff;
+    --visited: #b9a5ff;
+    --hover: #2c3a55;
+    --header: #2f6b2f;
+    --accent: #2a3a22;
+    --accent-fg: #dfeed2;
+    --accent-link: #bfe3a0;
+    --accent-hover: #3b5230;
+    --code-bg: #2a302a;
+    --border: #3a423a;
+    --th-border: #586258;
+  }
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: sans-serif;
+  line-height: 1.4;
+}
+.skip { position: absolute; left: -999px; }
+.skip:focus { left: 0; top: 0; z-index: 10; background: var(--bg); padding: .5em 1em; }
+
+a { text-decoration: none; }
+a:link { color: var(--link); font-weight: bold; }
+a:visited { color: var(--visited); }
+a:hover { text-decoration: underline; background: var(--hover); }
+a:focus-visible { outline: 2px solid currentColor; outline-offset: 2px; }
+
+img { max-width: 100%; height: auto; }
+code, pre { background: var(--code-bg); border: 1px dotted var(--border); }
+pre { padding: 8px; overflow-x: auto; }
+strong, b { color: var(--strong); }
+
+/* Header */
+#header { background: var(--header); color: #fff; padding: 1em; }
+#header h1 { margin: 0; font-size: 2em; }
+#header .subtitle { margin: 0; font-size: 1.17em; }
+
+/* Main navigation */
+#nav { background: var(--accent); }
+#nav ul { display: flex; flex-wrap: wrap; justify-content: center; margin: 0; padding: 0 1em; list-style: none; }
+#nav a, #nav a:link, #nav a:visited { display: block; padding: .6em .9em; color: var(--accent-link); font-weight: normal; }
+#nav a:hover { background: var(--accent-hover); text-decoration: none; }
+#nav a[aria-current="page"] { font-weight: bold; border-bottom: 3px solid var(--accent-link); }
+#nav a.donate { font-weight: bold; }
+
+
+/* Content */
+main { padding: 0 var(--gutter) 2em; font-size: 100%; line-height: 1.5; }
+main h1 { margin-top: 1.5em; }
+main h2 { padding-top: 1em; font-size: 150%; }
+main h3 img { vertical-align: middle; }
+
+/* Footer */
+#footer { margin: 3em 0 0; padding: 1em var(--gutter); border-top: 1px solid var(--border); font-size: 80%; }
+#footer a:link, #footer a:visited { font-weight: normal; }
+main .gemini { margin-top: 2em; font-style: italic; }
+#footer .sponsors { display: flex; flex-wrap: wrap; gap: .5em; margin: 0; padding: 0; list-style: none; }
+
+/* Tables */
+table { border-collapse: collapse; }
+th { background: var(--code-bg); padding: .5em; text-align: left; }
+td { padding: .2em .5em; }
+tbody tr:hover { background: var(--accent); }
+td.amount { text-align: right; }
+/* Separate borders: border-spacing gives the gaps between the header cells
+   and from the table border. */
+.donations { display: block; overflow-x: auto; width: max-content; max-width: 100%; border: 1px solid var(--border); border-collapse: separate; border-spacing: 3px; }
+.donations th { border: 1px solid var(--th-border); }
+
+/* Cryptocurrency donation options: same-coin options side by side */
+.crypto-group { display: flex; flex-wrap: wrap; column-gap: 2em; }
+.crypto { width: 24em; max-width: 100%; }
+.crypto h3 img { vertical-align: middle; }
+.crypto code { overflow-wrap: anywhere; }
+
+/* Downloads */
+.release img { margin: 5px; }
+.edition h2 { padding-top: .5em; }
+
+/* Screenshot galleries */
+.gallery { display: flex; flex-wrap: wrap; gap: 5px; margin: 0; padding: 0; list-style: none; }
+.gallery img { display: block; }

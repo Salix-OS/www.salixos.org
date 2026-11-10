@@ -1,0 +1,16 @@
+{{ range site.Data.downloads }}
+<section class="release" id="{{ .id }}">
+  <img src="{{ .image }}" alt="">
+  {{ range .editions }}
+  <article class="edition">
+    <h2>{{ .title }}</h2>
+    <p>(size: {{ .size }}, md5: <code>{{ .md5 }}</code>)</p>
+    <ul>
+      <li><a href="{{ .iso }}">download from Sourceforge</a></li>
+      <li><a href="{{ .torrent }}">torrent download</a></li>
+    </ul>
+    {{ with .readme }}<p><em>If you want to transfer the live iso to a USB stick, make sure you read the instructions in this <a href="{{ . }}">README</a>.</em></p>{{ end }}
+  </article>
+  {{ end }}
+</section>
+{{ end }}

@@ -1,0 +1,4 @@
+{{ define "main" }}
+{{ .Content }}
+{{ with site.Params.gemini }}<p class="gemini">This site, documentation and blog are also available using the Gemini protocol at <a href="{{ . | safeURL }}">{{ . }}</a>.</p>{{ end }}
+{{ end }}

@@ -1,0 +1,8 @@
+<table class="donations">
+  <thead><tr><th>Date</th><th>Donor</th><th>Amount Donated</th></tr></thead>
+  <tbody>
+  {{ range site.Data.donations }}
+    <tr><td>{{ .date }}</td><td>{{ .donor }}</td><td class="amount">{{ .amount }}</td></tr>
+  {{ end }}
+  </tbody>
+</table>
