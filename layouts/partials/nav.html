@@ -1,0 +1,9 @@
+{{ $page := . }}
+<nav id="nav" aria-label="Main">
+  <ul>
+  {{ range site.Menus.main }}
+    {{ $current := or (eq $page.RelPermalink .URL) (and $page.IsHome (eq .URL "/")) }}
+    <li><a href="{{ .URL }}"{{ if $current }} aria-current="page"{{ end }}{{ if eq .Name "Donate" }} class="donate"{{ end }}>{{ .Name }}</a></li>
+  {{ end }}
+  </ul>
+</nav>

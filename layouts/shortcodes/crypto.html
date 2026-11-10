@@ -1,0 +1,11 @@
+{{ range site.Data.crypto }}
+<div class="crypto-group">
+  {{ range . }}
+  <section class="crypto">
+    <h3><img src="{{ .icon }}" alt="" width="48" height="48"> {{ .name }}</h3>
+    <img src="{{ .qr }}" alt="QR code for the {{ .name }} address" width="87" height="87">
+    <p><code>{{ .address }}</code></p>
+  </section>
+  {{ end }}
+</div>
+{{ end }}

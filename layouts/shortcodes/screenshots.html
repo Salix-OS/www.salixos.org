@@ -1,0 +1,11 @@
+{{ range site.Data.screenshots }}
+{{ $group := .title }}
+<h2>{{ .title }}</h2>
+<ul class="gallery">
+  {{ range $i, $e := .images }}
+  {{ $img := resources.Get (printf "screenshots/%s" $e.file) }}
+  {{ $thumb := $img.Resize "x140 webp" }}
+  <li><a href="{{ $img.RelPermalink }}"{{ with $e.caption }} title="{{ . }}"{{ end }}><img src="{{ $thumb.RelPermalink }}" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}" loading="lazy" alt="{{ with $e.caption }}{{ . }}{{ else }}{{ $group }}, screenshot {{ add $i 1 }}{{ end }}"></a></li>
+  {{ end }}
+</ul>
+{{ end }}

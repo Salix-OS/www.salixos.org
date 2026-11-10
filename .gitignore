@@ -1,3 +1,4 @@
-*.un~
-*.html
 public
+resources
+.hugo_build.lock
+*.un~

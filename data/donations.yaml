@@ -1,0 +1,354 @@
+# Newest first. One line per donation.
+- {date: "2026-11-09", donor: "brocashelm", amount: "$4.27"}
+- {date: "2026-10-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2026-09-24", donor: "jury", amount: "10€"}
+- {date: "2026-09-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2026-08-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2026-07-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2026-06-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2026-05-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2026-05-04", donor: "Tomoki Tsuchiya (tsuren)", amount: "50€"}
+- {date: "2026-04-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2026-04-02", donor: "Joseph Verkin", amount: "50€"}
+- {date: "2026-03-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2026-02-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2026-01-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2026-01-09", donor: "jury", amount: "10€"}
+- {date: "2025-12-31", donor: "jpg153", amount: "153.15€"}
+- {date: "2025-12-24", donor: "Richard Lapointe (laprjns)", amount: "$150"}
+- {date: "2025-12-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2025-12-14", donor: "Francis Dionne", amount: "$20"}
+- {date: "2025-11-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2025-10-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2025-09-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2025-08-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2025-08-04", donor: "Lluis Tusquellas (Van Vinkle)", amount: "25€"}
+- {date: "2025-07-27", donor: "Peter Valky", amount: "13€"}
+- {date: "2025-07-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2025-06-16", donor: "Detlef Oyntzen", amount: "$10"}
+- {date: "2025-06-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2025-06-10", donor: "Alben Roland (coaxguy99)", amount: "$20"}
+- {date: "2025-05-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2025-05-07", donor: "Robert Holdsworth", amount: "$15"}
+- {date: "2025-05-05", donor: "Pascal Pype", amount: "500€"}
+- {date: "2025-04-21", donor: "Joseph Verkin", amount: "50€"}
+- {date: "2025-04-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2025-03-29", donor: "Detlef Oyntzen", amount: "20€"}
+- {date: "2025-03-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2025-02-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2025-02-09", donor: "Detlef Oyntzen", amount: "20€"}
+- {date: "2025-01-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2025-01-09", donor: "jury", amount: "10€"}
+- {date: "2024-12-28", donor: "jpg153", amount: "153.15€"}
+- {date: "2024-12-25", donor: "Richard Lapointe (laprjns)", amount: "$100"}
+- {date: "2024-12-25", donor: "Francis Dionne", amount: "$20"}
+- {date: "2024-12-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2024-11-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2024-11-11", donor: "David Pardue (gaucho)", amount: "$25"}
+- {date: "2024-10-64", donor: "Luigi Airoldi", amount: "2€"}
+- {date: "2024-10-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2024-09-30", donor: "Lluis Tusquellas (Van Vinkle)", amount: "50€"}
+- {date: "2024-09-21", donor: "Sebastien Zola (sebaz)", amount: "$15"}
+- {date: "2024-09-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2024-08-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2024-07-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2024-07-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2024-06-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2024-06-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2024-05-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2024-05-17", donor: "Tomoki Tsuchiya (tsuren)", amount: "100€"}
+- {date: "2024-05-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2024-04-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2024-04-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2024-03-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2024-03-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2024-02-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2024-02-20", donor: "Paulo Santos", amount: "$10"}
+- {date: "2024-02-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2024-01-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2024-01-22", donor: "Francis Dionne", amount: "$10"}
+- {date: "2024-01-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2024-01-01", donor: "Pascal Pype", amount: "300€"}
+- {date: "2023-12-31", donor: "Vasily Mikhaylichenko", amount: "$50"}
+- {date: "2023-12-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2023-12-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2023-11-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2023-11-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2023-11-11", donor: "jpg153", amount: "153.15€"}
+- {date: "2023-10-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2023-10-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2023-09-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2023-09-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2023-08-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2023-08-17", donor: "Yves Lagier (yves04)", amount: "10€"}
+- {date: "2023-08-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2023-07-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2023-07-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2023-07-12", donor: "David Richardson (dave1953)", amount: "10€"}
+- {date: "2023-06-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2023-06-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2023-05-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2023-05-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2023-03-08", donor: "Tomoki Tsuchiya (tsuren)", amount: "100€"}
+- {date: "2023-04-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2023-04-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2023-03-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2023-03-27", donor: "Vasily Mikhaylichenko", amount: "$50"}
+- {date: "2023-03-17", donor: "Jose Ismael Montero Lopez", amount: "2.87€"}
+- {date: "2023-03-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2023-02-28", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2023-02-22", donor: "Robert Holdsworth", amount: "$50"}
+- {date: "2023-02-20", donor: "Robert Talbot (sqlpython)", amount: "$25"}
+- {date: "2023-02-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2023-01-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2023-01-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2023-01-07", donor: "Pascal Pype", amount: "1€"}
+- {date: "2023-01-01", donor: "Olivier Amazias (Amol)", amount: "$10"}
+- {date: "2022-12-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2022-12-24", donor: "Brandon Wald", amount: "$10"}
+- {date: "2022-12-22", donor: "jpg153", amount: "153.15€"}
+- {date: "2022-12-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2022-11-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2022-11-14", donor: "Marcel van Erk", amount: "5€"}
+- {date: "2022-11-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2022-10-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2022-10-16", donor: "Bird", amount: "50€"}
+- {date: "2022-10-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2022-09-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2022-09-23", donor: "Christoph Koernig", amount: "€33.33"}
+- {date: "2022-09-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2022-09-03", donor: "Lluis Tusquellas (Van Vinkle)", amount: "50€"}
+- {date: "2022-08-29", donor: "Olivier Amazias (Amol)", amount: "15€"}
+- {date: "2022-08-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2022-08-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2022-07-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2022-07-25", donor: "Sebastien Zola (sebaz)", amount: "$15"}
+- {date: "2022-07-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2022-06-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2022-06-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2022-05-28", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2022-05-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2022-05-02", donor: "Salvador Boleko Ribas", amount: "20€"}
+- {date: "2022-04-28", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2022-04-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2022-04-13", donor: "Arnold Fodor", amount: "20€"}
+- {date: "2022-03-28", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2022-03-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2022-03-08", donor: "Tomoki Tsuchiya (tsuren)", amount: "100€"}
+- {date: "2022-02-28", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2022-02-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2022-02-05", donor: "John Vaughan (jayvee)", amount: "10€"}
+- {date: "2022-01-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2022-01-17", donor: "Richard Lapointe (laprjns)", amount: "$100"}
+- {date: "2022-01-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2021-12-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2021-12-19", donor: "jpg153", amount: "153.15€"}
+- {date: "2021-12-18", donor: "ivanovnegro", amount: "10€"}
+- {date: "2021-12-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2021-11-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2021-11-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2021-10-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2021-10-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2021-09-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2021-09-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2021-08-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2021-08-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2021-07-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2021-07-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2021-06-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2021-06-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2021-05-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2021-05-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2021-04-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2021-04-18", donor: "Stein Bauge", amount: "7.77€"}
+- {date: "2021-04-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2021-03-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2021-03-13", donor: "Felix Hassanen (phlix)", amount: "10€"}
+- {date: "2021-02-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2021-01-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2021-01-17", donor: "George Remnant", amount: "0.00010383 BTC"}
+- {date: "2021-01-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2020-12-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2020-12-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2020-11-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2020-11-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2020-11-01", donor: "John Chadfield", amount: "€10"}
+- {date: "2020-10-29", donor: "Tetsushi U Yada", amount: "$2"}
+- {date: "2020-10-16", donor: "jpg153", amount: "153.15€"}
+- {date: "2020-10-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2020-10-13", donor: "Stein Bauge", amount: "10€"}
+- {date: "2020-09-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2020-08-22", donor: "Miura Yasuhiro", amount: "$2"}
+- {date: "2020-08-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2020-07-22", donor: "Miura Yasuhiro", amount: "$2"}
+- {date: "2020-07-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2020-06-22", donor: "Miura Yasuhiro", amount: "$2"}
+- {date: "2020-06-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2020-06-04", donor: "Richard Lapointe (laprjns)", amount: "$100"}
+- {date: "2020-06-04", donor: "Tomoki Tsuchiya (tsuren)", amount: "100€"}
+- {date: "2020-05-22", donor: "Miura Yasuhiro", amount: "$2"}
+- {date: "2020-05-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2020-04-22", donor: "Miura Yasuhiro", amount: "$2"}
+- {date: "2020-04-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2020-03-22", donor: "Miura Yasuhiro", amount: "$2"}
+- {date: "2020-03-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2020-02-22", donor: "Miura Yasuhiro", amount: "$2"}
+- {date: "2020-02-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2020-01-22", donor: "Miura Yasuhiro", amount: "$2"}
+- {date: "2020-01-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2019-12-22", donor: "Miura Yasuhiro", amount: "$2"}
+- {date: "2019-12-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2019-12-01", donor: "Arnold Fodor", amount: "20€"}
+- {date: "2019-11-22", donor: "Miura Yasuhiro", amount: "$2"}
+- {date: "2019-11-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2019-11-14", donor: "jpg153", amount: "153.15€"}
+- {date: "2019-10-22", donor: "Miura Yasuhiro", amount: "$2"}
+- {date: "2019-10-14", donor: "Taiji Quan & Qigong Institute, LLC", amount: "$30"}
+- {date: "2019-10-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2019-10-05", donor: "Lluis Tusquellas (Van Vinkle)", amount: "25€"}
+- {date: "2019-09-22", donor: "Miura Yasuhiro", amount: "$2"}
+- {date: "2019-09-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2019-08-24", donor: "Allen Rock", amount: "$10"}
+- {date: "2019-08-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2019-07-27", donor: "Steven Stordal", amount: "20€"}
+- {date: "2019-07-20", donor: "Robin Arnaud (Artim)", amount: "$25"}
+- {date: "2019-07-20", donor: "Arnold Fodor", amount: "20€"}
+- {date: "2019-07-19", donor: "Pierrick Le Brun (Akuna)", amount: "120€"}
+- {date: "2019-07-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2019-06-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2019-05-26", donor: "Kevin Giles (Kimdino)", amount: "10€"}
+- {date: "2019-05-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2019-04-26", donor: "Ayoub Echaich", amount: "10€"}
+- {date: "2019-04-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2019-04-07", donor: "Arnold Fodor", amount: "20€"}
+- {date: "2019-04-06", donor: "Diko N Miyamoto", amount: "$2"}
+- {date: "2019-03-14", donor: "Anonymous", amount: "1 LTC"}
+- {date: "2019-03-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2019-03-06", donor: "Rae K Nishikawa", amount: "$5"}
+- {date: "2019-03-06", donor: "Diko N Miyamoto", amount: "$2"}
+- {date: "2019-02-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2019-02-06", donor: "Diko N Miyamoto", amount: "$2"}
+- {date: "2019-02-06", donor: "Rae K Nishikawa", amount: "$5"}
+- {date: "2019-01-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2019-01-13", donor: "Brian Barcus (bgbarcus)", amount: "$20"}
+- {date: "2018-12-17", donor: "Rainer Zimmer", amount: "5€"}
+- {date: "2018-12-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2018-11-25", donor: "Tomoki Tsuchiya (tsuren)", amount: "100€"}
+- {date: "2018-11-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2018-11-11", donor: "Diko N Miyamoto", amount: "$2"}
+- {date: "2018-10-24", donor: "jpg153", amount: "153.15€"}
+- {date: "2018-10-14", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2018-09-16", donor: "Timothy Beech (mimosa)", amount: "10€"}
+- {date: "2018-07-26", donor: "Taiji Quan & Qigong Institute, LLC", amount: "$25"}
+- {date: "2018-04-01", donor: "Richard Lapointe (laprjns)", amount: "$100"}
+- {date: "2018-03-25", donor: "Tomoki Tsuchiya (tsuren)", amount: "100€"}
+- {date: "2018-02-26", donor: "Kevin Giles (Kimdino)", amount: "20€"}
+- {date: "2018-02-21", donor: "Vasileios Zidros (kangasgr)", amount: "10€"}
+- {date: "2017-07-18", donor: "Arnold Fodor", amount: "20€"}
+- {date: "2017-06-17", donor: "Daniel Quatt", amount: "$20"}
+- {date: "2017-05-31", donor: "Sven Rønne Waskönig", amount: "40€"}
+- {date: "2017-05-18", donor: "Johann Gross", amount: "20€"}
+- {date: "2017-05-11", donor: "Mohamad Affandi Bin Ghazali", amount: "$2"}
+- {date: "2017-04-13", donor: "Viktor Schneider", amount: "150€"}
+- {date: "2017-03-29", donor: "Rockford Cogar", amount: "$3"}
+- {date: "2017-03-05", donor: "Marcin Michalski", amount: "5€"}
+- {date: "2017-02-28", donor: "Tomoki Tsuchiya (tsuren)", amount: "100€"}
+- {date: "2017-02-02", donor: "Taiji Quan & Qigong Institute, LLC", amount: "$25"}
+- {date: "2017-01-25", donor: "Kenneth Buck", amount: "$30"}
+- {date: "2017-01-23", donor: "Pierrick Le Brun (Akuna)", amount: "75€"}
+- {date: "2017-01-20", donor: "Gary Oke (revoke)", amount: "$50"}
+- {date: "2017-01-06", donor: "Arnold Fodor", amount: "$20"}
+- {date: "2016-12-14", donor: "anonymous", amount: "$10"}
+- {date: "2016-12-03", donor: "Roland Reynaud", amount: "5€"}
+- {date: "2016-10-27", donor: "Christopher Bagdanov (na5m)", amount: "200€"}
+- {date: "2016-10-22", donor: "Pierrick Le Brun (Akuna)", amount: "125€"}
+- {date: "2016-09-29", donor: "Lluis Tusquellas (Van Vinkle)", amount: "30€"}
+- {date: "2016-09-25", donor: "B Karsdorp", amount: "€15"}
+- {date: "2016-09-17", donor: "David Pardue (gaucho)", amount: "$35"}
+- {date: "2016-09-02", donor: "Ariel Segal", amount: "$10"}
+- {date: "2016-08-29", donor: "Johann Schwarz (sjox)", amount: "40€"}
+- {date: "2016-08-15", donor: "Sebasten Zola (sebaz)", amount: "$10"}
+- {date: "2016-07-28", donor: "E.M. (coroner)", amount: "$30"}
+- {date: "2016-07-05", donor: "Jared Doderer (phaeton)", amount: "$50"}
+- {date: "2016-07-03", donor: "Vincent Englebert", amount: "2€"}
+- {date: "2016-06-07", donor: "Pierrick Le Brun (Akuna)", amount: "150€"}
+- {date: "2016-05-21", donor: "Tran Khue", amount: "$2"}
+- {date: "2016-05-10", donor: "Stein Bauge", amount: "5€"}
+- {date: "2016-05-04", donor: "Tomoki Tsuchiya (tsuren)", amount: "100€"}
+- {date: "2016-04-10", donor: "Antonio Sardei (laplume)", amount: "50€"}
+- {date: "2016-02-23", donor: "Christoph Koernig", amount: "10€"}
+- {date: "2016-02-06", donor: "Dejan Lukic", amount: "6€"}
+- {date: "2016-01-13", donor: "Gerold Bruns (GeBruns)", amount: "50€"}
+- {date: "2016-01-01", donor: "Taiji Quan & Qigong Institute, LLC", amount: "$20"}
+- {date: "2015-12-13", donor: "Pierrick Le Brun (Akuna)", amount: "125€"}
+- {date: "2015-12-12", donor: "Edvins Rozenbergs", amount: "20€"}
+- {date: "2015-11-08", donor: "David Pardue (gaucho)", amount: "$30"}
+- {date: "2015-11-07", donor: "Gunnar Karlsen", amount: "10€"}
+- {date: "2015-10-24", donor: "Harald Achitz", amount: "25€"}
+- {date: "2015-07-19", donor: "Pierrick Le Brun (Akuna)", amount: "75€"}
+- {date: "2015-06-01", donor: "Tomoki Tsuchiya (tsuren)", amount: "100€"}
+- {date: "2015-05-16", donor: "Pierrick Le Brun (Akuna)", amount: "50€"}
+- {date: "2015-05-14", donor: "Daniel Levine (GJones)", amount: "$30"}
+- {date: "2015-05-05", donor: "papasot", amount: "20€"}
+- {date: "2015-04-21", donor: "Christopher Bagdanov (na5m)", amount: "$44"}
+- {date: "2015-04-20", donor: "Christopher Bagdanov (na5m)", amount: "$44"}
+- {date: "2015-04-10", donor: "Arnold Fodor", amount: "20€"}
+- {date: "2015-02-19", donor: "Pierrick Le Brun (Akuna)", amount: "50€"}
+- {date: "2015-02-17", donor: "icaroperseo", amount: "$6.17"}
+- {date: "2015-01-04", donor: "E.M. (coroner)", amount: "$50"}
+- {date: "2014-12-30", donor: "Arnold Fodor", amount: "20€"}
+- {date: "2014-12-25", donor: "Antonio Sardei (laplume)", amount: "25€"}
+- {date: "2014-12-25", donor: "Pierrick Le Brun (Akuna)", amount: "50€"}
+- {date: "2014-11-27", donor: "[Porteus Linux http://www.porteus.org]", amount: "$50"}
+- {date: "2014-11-24", donor: "Sebastien Zola (sebaz)", amount: "$2"}
+- {date: "2014-10-29", donor: "Pierrick Le Brun (Akuna)", amount: "25€"}
+- {date: "2014-10-26", donor: "Fabio Cassiano Canton (Pai Mei)", amount: "$10"}
+- {date: "2014-10-21", donor: "Edvins Rozenbergs", amount: "15€"}
+- {date: "2014-10-09", donor: "Anthony Hardy (knome)", amount: "10€"}
+- {date: "2014-09-26", donor: "Pierrick Le Brun (Akuna)", amount: "25€"}
+- {date: "2014-09-20", donor: "Antonio Sardei (laplume)", amount: "50€"}
+- {date: "2014-08-28", donor: "Pierrick Le Brun (Akuna)", amount: "25€"}
+- {date: "2014-08-23", donor: "Andrea Naletto", amount: "5€"}
+- {date: "2014-08-09", donor: "Tomoki Tsuchiya (tsuren)", amount: "100€"}
+- {date: "2014-07-31", donor: "Pierrick Le Brun (Akuna)", amount: "25€"}
+- {date: "2014-07-31", donor: "Arnold Fodor", amount: "20€"}
+- {date: "2014-07-27", donor: "Johann Schwarz (sjox)", amount: "20€"}
+- {date: "2014-07-20", donor: "Peter Coates", amount: "12€"}
+- {date: "2014-07-14", donor: "Michael Sormaz", amount: "$25"}
+- {date: "2014-07-04", donor: "Antonio Sardei (laplume)", amount: "$5"}
+- {date: "2014-06-23", donor: "Pierrick Le Brun (Akuna)", amount: "25€"}
+- {date: "2014-06-21", donor: "anonymous", amount: "$1"}
+- {date: "2014-06-21", donor: "Antonio Sardei (laplume)", amount: "25€"}
+- {date: "2014-06-07", donor: "Lluis Tusquellas (Van Vinkle)", amount: "30€"}
+- {date: "2014-06-01", donor: "Marian Bridik", amount: "5€"}
+- {date: "2014-05-23", donor: "Pierrick Le Brun (Akuna)", amount: "25€"}
+- {date: "2014-04-29", donor: "Dejan Lukic", amount: "5€"}
+- {date: "2014-04-27", donor: "Mikko Moisio", amount: "$44"}
+- {date: "2014-04-25", donor: "David Pardue (gaucho)", amount: "$35"}
+- {date: "2014-04-22", donor: "代 学伟", amount: "5€"}
+- {date: "2014-04-21", donor: "Pierrick Le Brun (Akuna)", amount: "25€"}
+- {date: "2014-04-11", donor: "Lynn Cameron", amount: "5€"}
+- {date: "2014-03-20", donor: "Pierrick Le Brun (Akuna)", amount: "25€"}
+- {date: "2014-03-20", donor: "Dejan Lukic", amount: "$11"}
+- {date: "2014-03-17", donor: "王 狄", amount: "$5"}
+- {date: "2014-03-12", donor: "Thibaut Leduc", amount: "8€"}
+- {date: "2014-03-11", donor: "Felix Pleșoianu", amount: "$10"}
+- {date: "2014-03-08", donor: "Antonio Sardei (laplume)", amount: "25€"}
+- {date: "2014-02-16", donor: "Shane Kelly (shanek54)", amount: "10€"}
+- {date: "2014-02-16", donor: "Pierrick Le Brun (Akuna)", amount: "25€"}
+- {date: "2014-01-28", donor: "Pierrick Le Brun (Akuna)", amount: "25€"}
+- {date: "2014-01-23", donor: "Andrea Costa", amount: "2€"}
+- {date: "2014-01-13", donor: "Anthony Hardy (knome)", amount: "10€"}
+- {date: "2014-01-09", donor: "Johann Schwarz (sjox)", amount: "20€"}
+- {date: "2013-12-15", donor: "Antonio Sardei (laplume)", amount: "50€"}
+- {date: "2013-12-13", donor: "Marcin Michalski", amount: "0.75€"}
+- {date: "2013-11-29", donor: "E.M. (coroner)", amount: "$100"}
+- {date: "2013-11-23", donor: "Marc Boutin", amount: "20€"}
+- {date: "2013-11-18", donor: "Anton Wolters (anttel)", amount: "10€"}
+- {date: "2013-11-10", donor: "Christopher Bagdanov (na5m)", amount: "$66"}
+- {date: "2013-11-03", donor: "David Pardue (gaucho)", amount: "$40"}
+- {date: "2013-10-31", donor: "Кудашев Владимир", amount: "30€"}
+- {date: "2013-10-29", donor: "Lluis Tusquellas (Van Vinkle)", amount: "30€"}
+- {date: "2013-10-28", donor: "Anthony Hardy (knome)", amount: "10€"}
+- {date: "2013-10-28", donor: "Richard Speyer (aurlaent)", amount: "10€"}
+- {date: "2013-10-27", donor: "Antonio Sardei (laplume)", amount: "50€"}

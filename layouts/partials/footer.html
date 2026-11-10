@@ -1,0 +1,10 @@
+{{ if .IsHome }}
+<footer id="footer">
+  <p>This site is operated by the Salix OS team, with support from the following sponsors:</p>
+  <ul class="sponsors">
+  {{ range site.Data.sponsors }}
+    <li><a href="{{ .url }}"><img src="{{ .image }}" alt="{{ .name }}"></a></li>
+  {{ end }}
+  </ul>
+</footer>
+{{ end }}

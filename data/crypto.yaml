@@ -1,0 +1,6 @@
+# Cryptocurrency donation addresses. Options in the same group are shown side by side.
+- - {name: "Bitcoin (SegWit)", icon: /img/bitcoin.png, qr: /img/bitcoin-bech32-address.png, address: bc1qrcfzhydchvmnh5w7s76l4h9r0q2sgxwa0fvvfa}
+  - {name: "Bitcoin (Standard)", icon: /img/bitcoin.png, qr: /img/bitcoin-address.png, address: 1K17sncaNFqcYHbidsrboQ1JMKevLgsBDr}
+- - {name: "Litecoin (SegWit)", icon: /img/litecoin.png, qr: /img/litecoin-bech32-address.png, address: ltc1qshnxwftckqmyve4hs9srj3h3phe0ae93zvm5hn}
+  - {name: "Litecoin (Standard)", icon: /img/litecoin.png, qr: /img/litecoin-address.png, address: LRjToqgMA6kbhCTfepUTvT1kyanD58zt8b}
+- - {name: "Dash", icon: /img/dash.png, qr: /img/dash-address.png, address: XoZmPZfWYeBNNoA3MmquQTsJc2o13aTyU7}

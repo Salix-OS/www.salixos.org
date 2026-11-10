@@ -1,0 +1,59 @@
+baseURL = "https://salixos.org/"
+languageCode = "en"
+title = "Salix"
+uglyURLs = false
+disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
+enableRobotsTXT = false
+
+[markup.goldmark.renderer]
+  unsafe = false
+
+[markup.highlight]
+  noClasses = false
+
+[params]
+  description = "Salix - The Linux distribution for the lazy Slacker!"
+  keywords = "salix, slackware, gnu, linux, distribution, slapt-get"
+  author = "George Vlahavas <vlahavas~at~gmail~dot~com>"
+  ogDescription = "Linux for the Lazy Slacker"
+  ogImage = "/img/og_image.png"
+  gemini = "gemini://salixos.org"
+  rssFeed = "http://forum.salixos.org/feed.php?mode=news"
+
+# Header navigation, in display order.
+[[menus.main]]
+  name = "Home"
+  url = "/"
+  weight = 10
+[[menus.main]]
+  name = "Download"
+  url = "/download/"
+  weight = 20
+[[menus.main]]
+  name = "Screenshots"
+  url = "/screenshots/"
+  weight = 30
+[[menus.main]]
+  name = "Community"
+  url = "/community/"
+  weight = 40
+[[menus.main]]
+  name = "Documentation"
+  url = "https://docs.salixos.org"
+  weight = 50
+[[menus.main]]
+  name = "Forum"
+  url = "https://forum.salixos.org/"
+  weight = 60
+[[menus.main]]
+  name = "Packages"
+  url = "https://packages.salixos.org/"
+  weight = 70
+[[menus.main]]
+  name = "Blog"
+  url = "https://blog.salixos.org"
+  weight = 80
+[[menus.main]]
+  name = "Donate"
+  url = "/donations/"
+  weight = 90
